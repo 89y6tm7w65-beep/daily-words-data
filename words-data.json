@@ -1716,5 +1716,241 @@
     "tip": "与 nurse（照料）同源 → 像照料婴儿一样精心培育 → 培养、养育。"
    }
   ]
+ },
+ {
+  "date": "2026-09-14",
+  "label": "9月14日",
+  "words": [
+   {
+    "w": "circumvent",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ˌsɜːkəmˈvent/",
+    "pos": "v.",
+    "def": "规避，绕过（规则、障碍、困难）",
+    "ex": [
+     [
+      "Companies often try to circumvent tax regulations through loopholes.",
+      "公司常试图通过法律漏洞规避税收法规。"
+     ],
+     [
+      "We can circumvent the traffic jam by taking the back roads.",
+      "我们可以走小路绕过交通堵塞。"
+     ],
+     [
+      "The new system was designed to circumvent security flaws.",
+      "新系统旨在绕过安全漏洞。"
+     ]
+    ],
+    "tip": "circum-（环绕，同根 circumference 圆周）+ vent（来）→ 绕着走、不正面撞上，即规避。"
+   },
+   {
+    "w": "relentless",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/rɪˈlentləs/",
+    "pos": "adj.",
+    "def": "不停的，不间断的；坚持不懈的；无情的",
+    "ex": [
+     [
+      "The relentless rain caused severe flooding in the low-lying areas.",
+      "连绵不断的暴雨在低洼地区引发了严重洪灾。"
+     ],
+     [
+      "Her relentless pursuit of excellence earned her the promotion.",
+      "她对卓越的不懈追求为她赢得了晋升。"
+     ],
+     [
+      "The team faced relentless pressure from competitors.",
+      "团队承受着来自竞争对手的无情压力。"
+     ]
+    ],
+    "tip": "relent（心软）+ less（不）→ 不心软、不停歇，即无情/不停。画面：永不停歇的暴雨。"
+   },
+   {
+    "w": "drawback",
+    "lv": "B2",
+    "level": "B1-B2",
+    "ipa": "/ˈdrɔːbæk/",
+    "pos": "n.",
+    "def": "缺点，不利条件，弊端",
+    "ex": [
+     [
+      "The main drawback of working from home is the lack of face-to-face interaction.",
+      "在家办公的主要缺点是缺乏面对面交流。"
+     ],
+     [
+      "High maintenance costs are a significant drawback of this equipment.",
+      "高昂的维护成本是这台设备的一大缺点。"
+     ],
+     [
+      "Despite its drawbacks, the plan is still worth trying.",
+      "尽管有缺点，这个计划仍值得一试。"
+     ]
+    ],
+    "tip": "draw（拉）+ back（回）→ 把你往后拉的力，即不利因素。联想：drawback 是 pullback（后拉力）。"
+   },
+   {
+    "w": "endorse",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ɪnˈdɔːs/",
+    "pos": "v.",
+    "def": "赞同，支持；为…代言，背书",
+    "ex": [
+     [
+      "The committee endorsed the proposal after a long discussion.",
+      "委员会经过长时间讨论后赞同了该提案。"
+     ],
+     [
+      "Several celebrities endorse this brand on social media.",
+      "多位明星在社交媒体上为该品牌代言。"
+     ],
+     [
+      "The study endorses the effectiveness of regular exercise.",
+      "该研究支持定期锻炼的有效性。"
+     ]
+    ],
+    "tip": "en-（使）+ dorse（背面）→ 在文件背面签字表示认可，即背书、支持。"
+   },
+   {
+    "w": "interim",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ˈɪntərɪm/",
+    "pos": "adj.&n.",
+    "def": "临时的，过渡的；过渡期，间歇",
+    "ex": [
+     [
+      "An interim CEO was appointed while the board searched for a permanent candidate.",
+      "董事会在寻找正式人选期间任命了一位临时CEO。"
+     ],
+     [
+      "The report will be released in the interim before the final results come out.",
+      "报告将在最终结果出来前的过渡期发布。"
+     ],
+     [
+      "In the interim, we should focus on stabilizing our cash flow.",
+      "在此期间，我们应该专注于稳定现金流。"
+     ]
+    ],
+    "tip": "inter-（在…之间）+ im → 在两个阶段“之间”的，即临时的、过渡的。"
+   },
+   {
+    "w": "notorious",
+    "lv": "B2",
+    "level": "B1-B2",
+    "ipa": "/nəʊˈtɔːriəs/",
+    "pos": "adj.",
+    "def": "臭名昭著的，声名狼藉的（多含贬义）",
+    "ex": [
+     [
+      "The city is notorious for its traffic congestion.",
+      "这座城市因交通拥堵而声名狼藉。"
+     ],
+     [
+      "He is a notorious hacker who has been arrested twice.",
+      "他是个两次被捕的臭名昭著的黑客。"
+     ],
+     [
+      "The restaurant is notorious for its poor service.",
+      "这家餐厅以服务差而闻名。"
+     ]
+    ],
+    "tip": "not（知道）+ -orious → 人人都知道（而且是坏事），即臭名昭著。与 famous 区别：notorious 带贬义。"
+   },
+   {
+    "w": "denounce",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/dɪˈnaʊns/",
+    "pos": "v.",
+    "def": "谴责，公开抨击；告发",
+    "ex": [
+     [
+      "World leaders denounced the attack in strong terms.",
+      "世界各国领导人强烈谴责这次袭击。"
+     ],
+     [
+      "The union denounced the company's decision to cut wages.",
+      "工会公开抨击公司降薪的决定。"
+     ],
+     [
+      "She denounced the report as misleading.",
+      "她抨击这份报道具有误导性。"
+     ]
+    ],
+    "tip": "de-（向下）+ nounce（说，同根 announce）→ 向下大声说（坏事），即谴责。"
+   },
+   {
+    "w": "oversee",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ˌəʊvəˈsiː/",
+    "pos": "v.",
+    "def": "监督，监管，负责管理",
+    "ex": [
+     [
+      "She oversees a team of twenty engineers.",
+      "她负责管理一支二十人的工程师团队。"
+     ],
+     [
+      "The project was overseen by the vice president.",
+      "该项目由副总裁监督。"
+     ],
+     [
+      "A government agency oversees food safety standards.",
+      "一家政府机构负责监管食品安全标准。"
+     ]
+    ],
+    "tip": "over（在上方）+ see（看）→ 站在高处看着全局，即监管。联想 oversee 与 supervisor（主管）同源。"
+   },
+   {
+    "w": "simultaneous",
+    "lv": "B2",
+    "level": "B1-B2",
+    "ipa": "/ˌsɪmlˈteɪniəs/",
+    "pos": "adj.",
+    "def": "同时发生的，同步的",
+    "ex": [
+     [
+      "The conference offers simultaneous interpretation in six languages.",
+      "会议提供六种语言的同声传译。"
+     ],
+     [
+      "The two attacks were simultaneous, which puzzled investigators.",
+      "两起袭击同时发生，令调查人员困惑。"
+     ],
+     [
+      "We need to ensure simultaneous updates across all devices.",
+      "我们需要确保所有设备同步更新。"
+     ]
+    ],
+    "tip": "simul（相同，同根 similar）+ -taneous → 在同一时间，即同时的。simultaneous interpretation 同声传译。"
+   },
+   {
+    "w": "threshold",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ˈθreʃhəʊld/",
+    "pos": "n.",
+    "def": "门槛；阈值，临界点；起点",
+    "ex": [
+     [
+      "The noise level exceeded the acceptable threshold.",
+      "噪音水平超过了可接受的阈值。"
+     ],
+     [
+      "Low-income families below the threshold receive government subsidies.",
+      "低于门槛线的低收入家庭可获得政府补贴。"
+     ],
+     [
+      "We are on the threshold of a major breakthrough.",
+      "我们正处于重大突破的起点。"
+     ]
+    ],
+    "tip": "thresh（踩踏）+ hold（握住）→ 门口踩踏的地方，即门槛。引申为界限、阈值。"
+   }
+  ]
  }
 ]
