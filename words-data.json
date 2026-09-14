@@ -1952,5 +1952,356 @@
     "tip": "thresh（踩踏）+ hold（握住）→ 门口踩踏的地方，即门槛。引申为界限、阈值。"
    }
   ]
+ },
+ {
+  "date": "2026-09-14",
+  "label": "9月14日·追加",
+  "words": [
+   {
+    "w": "substantiate",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/səbˈstænʃieɪt/",
+    "pos": "v.",
+    "def": "证实，证明（使有根据）",
+    "ex": [
+     [
+      "The journalist could not substantiate her claims with evidence.",
+      "记者无法用证据证实她的说法。"
+     ],
+     [
+      "Researchers must substantiate their findings before publication.",
+      "研究人员必须在发表前证实他们的发现。"
+     ],
+     [
+      "The theory has never been substantiated by experiment.",
+      "该理论从未得到实验证实。"
+     ]
+    ],
+    "tip": "substance（实质）+ -ate → 让说法有“实质”支撑，即证实。"
+   },
+   {
+    "w": "concede",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/kənˈsiːd/",
+    "pos": "v.",
+    "def": "（不情愿地）承认；让步，认输",
+    "ex": [
+     [
+      "After losing three games, the team finally conceded defeat.",
+      "连输三场后，球队最终承认失败。"
+     ],
+     [
+      "The manager conceded that the deadline was unrealistic.",
+      "经理承认截止日期不现实。"
+     ],
+     [
+      "He conceded the point to his opponent.",
+      "他在这点上向对手让步了。"
+     ]
+    ],
+    "tip": "con-（一起）+ cede（退，同根 proceed）→ 往后退、认输，即承认/让步。"
+   },
+   {
+    "w": "dwindle",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ˈdwɪndl/",
+    "pos": "v.",
+    "def": "逐渐减少，缩小， dwindling 日益减少的",
+    "ex": [
+     [
+      "Water supplies dwindled during the long drought.",
+      "长期干旱期间供水不断减少。"
+     ],
+     [
+      "Support for the policy has dwindled in recent months.",
+      "近几个月对该政策的支持逐渐下降。"
+     ],
+     [
+      "The crowd dwindled to a handful of people.",
+      "人群减少到只剩几个人。"
+     ]
+    ],
+    "tip": "谐音“叮当”→ 硬币越来越少，“叮当”声渐弱，即逐渐减少。"
+   },
+   {
+    "w": "unprecedented",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ʌnˈpresɪdentɪd/",
+    "pos": "adj.",
+    "def": "前所未有的，史无前例的",
+    "ex": [
+     [
+      "The pandemic caused unprecedented disruption to global trade.",
+      "疫情给全球贸易造成了前所未有的干扰。"
+     ],
+     [
+      "The company saw unprecedented growth this year.",
+      "公司今年实现了前所未有的增长。"
+     ],
+     [
+      "The deal was completed at unprecedented speed.",
+      "这笔交易以空前的速度完成。"
+     ]
+    ],
+    "tip": "un-（没有）+ precedent（先例）+ -ed → 没有先例的，即史无前例。"
+   },
+   {
+    "w": "mandate",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ˈmændeɪt/",
+    "pos": "n.&v.",
+    "def": "授权，委托；命令，强制执行",
+    "ex": [
+     [
+      "The government has a mandate to implement the new policy.",
+      "政府获授权执行这项新政策。"
+     ],
+     [
+      "The new law mandates that all drivers wear seat belts.",
+      "新法律规定所有驾驶员必须系安全带。"
+     ],
+     [
+      "The election gave the party a clear mandate for reform.",
+      "选举赋予该党明确的改革授权。"
+     ]
+    ],
+    "tip": "man（手）+ date（给）→ 交到手上的任务，即授权、命令。"
+   },
+   {
+    "w": "adhere",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ədˈhɪə(r)/",
+    "pos": "v.",
+    "def": "遵守，坚持（adhere to）；粘附",
+    "ex": [
+     [
+      "All employees must adhere to the company's code of conduct.",
+      "所有员工必须遵守公司行为准则。"
+     ],
+     [
+      "The bandage adhered firmly to the skin.",
+      "绷带牢牢粘在皮肤上。"
+     ],
+     [
+      "We adhered strictly to the original plan.",
+      "我们严格遵守原定计划。"
+     ]
+    ],
+    "tip": "ad-（向）+ here（粘）→ 粘上去不脱离，即遵守/粘附。"
+   },
+   {
+    "w": "controversial",
+    "lv": "B2",
+    "level": "B1-B2",
+    "ipa": "/ˌkɒntrəˈvɜːʃl/",
+    "pos": "adj.",
+    "def": "有争议的，引起争论的",
+    "ex": [
+     [
+      "The new tax policy is highly controversial.",
+      "新税收政策极具争议。"
+     ],
+     [
+      "She made a controversial decision to cut funding.",
+      "她做出了削减资金的争议性决定。"
+     ],
+     [
+      "The book remains controversial decades after publication.",
+      "这本书出版几十年后仍具争议。"
+     ]
+    ],
+    "tip": "contro-（相反）+ vers（转）→ 大家往相反方向转、各执一词，即有争议。"
+   },
+   {
+    "w": "exacerbate",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ɪɡˈzæsəbeɪt/",
+    "pos": "v.",
+    "def": "使恶化，加剧（尤指坏事）",
+    "ex": [
+     [
+      "The delay only exacerbated the problem.",
+      "延误只会使问题恶化。"
+     ],
+     [
+      "Cutting staff may exacerbate the current crisis.",
+      "裁员可能加剧当前危机。"
+     ],
+     [
+      "Stress can exacerbate existing health conditions.",
+      "压力会加剧已有的健康问题。"
+     ]
+    ],
+    "tip": "ex-（出）+ acerb（酸涩）+ -ate → 让味道更酸涩，即使之恶化。"
+   },
+   {
+    "w": "futile",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ˈfjuːtaɪl/",
+    "pos": "adj.",
+    "def": "徒劳的，无用的，无效的",
+    "ex": [
+     [
+      "It's futile to argue with someone who won't listen.",
+      "和一个不听劝的人争论是徒劳的。"
+     ],
+     [
+      "They made a futile attempt to rescue the trapped miners.",
+      "他们试图营救被困矿工，但徒劳无功。"
+     ],
+     [
+      "The negotiations proved futile in the end.",
+      "谈判最终被证明是徒劳的。"
+     ]
+    ],
+    "tip": "fut（流出）+ -ile → 像水一样流走、抓不住，即徒劳。"
+   },
+   {
+    "w": "impartial",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ɪmˈpɑːʃl/",
+    "pos": "adj.",
+    "def": "公正的，不偏不倚的",
+    "ex": [
+     [
+      "An impartial judge is essential for a fair trial.",
+      "公正的法官对公正审判至关重要。"
+     ],
+     [
+      "The committee must remain impartial when reviewing applications.",
+      "委员会在审查申请时必须保持公正。"
+     ],
+     [
+      "We need impartial advice on this matter.",
+      "这件事我们需要公正的建议。"
+     ]
+    ],
+    "tip": "im-（不）+ partial（偏袒的）→ 不偏袒任何一方，即公正。"
+   },
+   {
+    "w": "legitimate",
+    "lv": "B2",
+    "level": "B1-B2",
+    "ipa": "/lɪˈdʒɪtɪmət/",
+    "pos": "adj.",
+    "def": "合法的；正当的，合理的",
+    "ex": [
+     [
+      "The company has a legitimate claim to the patent.",
+      "公司对该专利拥有合法权利。"
+     ],
+     [
+      "She raised legitimate concerns about the project's cost.",
+      "她对项目成本提出了合理的担忧。"
+     ],
+     [
+      "Is this a legitimate business or a scam?",
+      "这是正规生意还是骗局？"
+     ]
+    ],
+    "tip": "词根 legitim（法律）→ 法律认可的，即合法/正当。"
+   },
+   {
+    "w": "marginal",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ˈmɑːdʒɪnl/",
+    "pos": "adj.",
+    "def": "微小的，少量的；边缘的，非主流的",
+    "ex": [
+     [
+      "The new policy had only a marginal effect on prices.",
+      "新政策对价格影响甚微。"
+     ],
+     [
+      "He was a marginal candidate with little support.",
+      "他是一位支持率很低的边缘候选人。"
+     ],
+     [
+      "The changes produced a marginal improvement in sales.",
+      "这些变化使销售略有改善。"
+     ]
+    ],
+    "tip": "margin（边缘）+ -al → 处在边缘、只有一点点，即微小的。"
+   },
+   {
+    "w": "oblige",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/əˈblaɪdʒ/",
+    "pos": "v.",
+    "def": "迫使，责成；施恩于，帮…的忙",
+    "ex": [
+     [
+      "The law obliges companies to report data breaches.",
+      "法律要求公司报告数据泄露事件。"
+     ],
+     [
+      "Would you oblige me by closing the window?",
+      "能麻烦您帮我关一下窗吗？"
+     ],
+     [
+      "I'd be obliged if you kept this confidential.",
+      "如果你能保密，我将不胜感激。"
+     ]
+    ],
+    "tip": "ob-（朝向）+ lige（绑）→ 被“绑”住不得不做，即迫使。be obliged 感激的。"
+   },
+   {
+    "w": "precedent",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ˈpresɪdənt/",
+    "pos": "n.",
+    "def": "先例，惯例；判例",
+    "ex": [
+     [
+      "The ruling set a legal precedent for similar cases.",
+      "该裁决为类似案件确立了法律先例。"
+     ],
+     [
+      "There is no precedent for such a decision.",
+      "这样的决定没有先例可循。"
+     ],
+     [
+      "The company broke with precedent by hiring an outsider as CEO.",
+      "公司打破惯例，聘请外人担任CEO。"
+     ]
+    ],
+    "tip": "pre-（前）+ cede（走）→ 走在前面可参照的事，即先例。"
+   },
+   {
+    "w": "subordinate",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/səˈbɔːdɪnət/",
+    "pos": "adj.&n.",
+    "def": "下级的，次要的；下属，下级",
+    "ex": [
+     [
+      "He delegated the task to his subordinates.",
+      "他把任务分派给下属。"
+     ],
+     [
+      "A good manager listens to subordinates' feedback.",
+      "好的经理会倾听下属的反馈。"
+     ],
+     [
+      "In the army, rank determines who is subordinate to whom.",
+      "军队里，军衔决定谁是谁的下级。"
+     ]
+    ],
+    "tip": "sub-（下）+ ordinate（顺序）→ 排在下面的，即下级。同根 order（顺序）。"
+   }
+  ]
  }
 ]
