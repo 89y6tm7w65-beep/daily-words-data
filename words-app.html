@@ -874,18 +874,16 @@ if ("serviceWorker" in navigator && (location.protocol === "https:" || location.
       var t = document.getElementById('importText');
       var tip = document.getElementById('exportTip');
       if(!t) return;
-      var txt = t.value.trim();
-      var lines = txt.split('\n');
+      var txt = String(t.value || '').trim();
       var mastered = null, dyn = null, i;
-      for(i = 0; i < lines.length; i++){
-        if(lines[i].indexOf('MASTERED=') === 0){
-          try{ mastered = JSON.parse(lines[i].slice(9)); }catch(e){}
-        }
-        if(lines[i].indexOf('DYNAMIC=') === 0){
-          try{ dyn = JSON.parse(lines[i].slice(8)); }catch(e){}
-        }
+      var mm = txt.match(/MASTERED=(\{[\s\S]*?\})(?=\n|$)/);
+      if(mm){ try{ mastered = JSON.parse(mm[1]); }catch(e){} }
+      var dm = txt.match(/DYNAMIC=(\[[\s\S]*?\])(?=\n|$)/);
+      if(dm){ try{ dyn = JSON.parse(dm[1]); }catch(e){} }
+      if(mastered === null && dyn === null){
+        try{ var whole = JSON.parse(txt); if(whole && typeof whole === 'object' && !Array.isArray(whole)){ mastered = whole; } }catch(e){}
       }
-      var n = 0;
+      var n = 0, k = 0;
       if(mastered && typeof mastered === 'object'){
         var keys = Object.keys(mastered);
         for(i = 0; i < keys.length; i++){
@@ -899,16 +897,19 @@ if ("serviceWorker" in navigator && (location.protocol === "https:" || location.
         for(i = 0; i < dyn.length; i++){
           var it = dyn[i];
           if(!it || !it.w) continue;
-          var k = String(it.w).toLowerCase();
-          if(existed[k]) continue;
+          var w = String(it.w).toLowerCase();
+          if(existed[w]) continue;
           list.unshift({ w: it.w, pos: it.pos||"", ipa: it.ipa||"", def: it.def||"", lv: it.lv||"C1", addedAt: it.addedAt || Date.now() });
-          existed[k] = 1;
+          existed[w] = 1; k++;
         }
         try{ localStorage.setItem(DYNKEY, JSON.stringify(list)); }catch(e){}
       }
       hideImportModal();
-      if(typeof renderSaved === 'function') renderSaved();
-      if(tip){ tip.textContent = "导入完成"; tip.style.color = '#3E7C4F'; }
+      try{ renderSaved(); }catch(e){}
+      try{ if(typeof renderAll === 'function') renderAll(); }catch(e){}
+      try{ if(typeof renderToday === 'function') renderToday(); }catch(e){}
+      try{ if(typeof refreshAllData === 'function') refreshAllData(); }catch(e){}
+      if(tip){ tip.textContent = "导入完成：" + n + " 个标记 + " + k + " 个生词"; tip.style.color = '#3E7C4F'; }
     }
 
     var savedInput = document.getElementById('savedSearchInput');
