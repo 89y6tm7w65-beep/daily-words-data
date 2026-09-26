@@ -300,22 +300,22 @@
       <div style="font-weight:600;margin-bottom:8px;font-size:13px;">粘贴迁移数据（来自旧 App「导出标记」）</div>
       <textarea id="importText" style="width:100%;height:120px;border:1px solid #c9d1dd;border-radius:10px;padding:10px;font-size:12px;font-family:monospace;box-sizing:border-box;"></textarea>
       <div style="margin-top:10px;display:flex;gap:10px;">
-        <button type="button" onclick="doImport()" style="border:none;background:#33466E;color:#fff;border-radius:999px;padding:7px 18px;font-size:13px;">导入</button>
-        <button type="button" onclick="hideImportModal()" style="border:1px solid #c9d1dd;background:#fff;color:#333;border-radius:999px;padding:7px 18px;font-size:13px;">取消</button>
+        <button id="btnDoImport" type="button" style="border:none;background:#33466E;color:#fff;border-radius:999px;padding:7px 18px;font-size:13px;">导入</button>
+        <button id="btnHideImport" type="button" style="border:1px solid #c9d1dd;background:#fff;color:#333;border-radius:999px;padding:7px 18px;font-size:13px;">取消</button>
       </div>
     </div>
     <div id="exportPanel" style="display:none;margin:6px 0 10px;background:#F4F6FA;border:1px solid #dbe1ec;border-radius:14px;padding:12px;">
       <div style="font-weight:600;margin-bottom:8px;font-size:13px;">迁移数据已生成（长按下方内容选择复制，或点「复制全部」）</div>
       <textarea id="exportText" readonly style="width:100%;height:180px;border:1px solid #c9d1dd;border-radius:10px;padding:10px;font-size:12px;font-family:monospace;box-sizing:border-box;-webkit-user-select:text;user-select:text;color:#1A1B1C;background:#fff;"></textarea>
       <div style="margin-top:10px;display:flex;gap:10px;">
-        <button type="button" onclick="copyExportAll()" style="border:none;background:#33466E;color:#fff;border-radius:999px;padding:7px 18px;font-size:13px;">复制全部</button>
-        <button type="button" onclick="hideExportPanel()" style="border:1px solid #c9d1dd;background:#fff;color:#333;border-radius:999px;padding:7px 18px;font-size:13px;">关闭</button>
+        <button id="btnCopyExport" type="button" style="border:none;background:#33466E;color:#fff;border-radius:999px;padding:7px 18px;font-size:13px;">复制全部</button>
+        <button id="btnHideExport" type="button" style="border:1px solid #c9d1dd;background:#fff;color:#333;border-radius:999px;padding:7px 18px;font-size:13px;">关闭</button>
       </div>
     </div>
     <div id="savedList"></div>
   </section>
 
-  <footer>单词数据由每日推送自动累积 · 学习进度保存在本机浏览器</footer>
+  <footer>单词数据由每日推送自动累积 · 学习进度保存在本机浏览器 · <b>v3</b></footer>
 
 
 </div>
@@ -859,6 +859,14 @@ if ("serviceWorker" in navigator && (location.protocol === "https:" || location.
       var b2 = document.getElementById('btnImport');
       if(b1) b1.addEventListener('click', exportData);
       if(b2) b2.addEventListener('click', showImportModal);
+      var d1 = document.getElementById('btnDoImport');
+      var d2 = document.getElementById('btnHideImport');
+      var d3 = document.getElementById('btnCopyExport');
+      var d4 = document.getElementById('btnHideExport');
+      if(d1) d1.addEventListener('click', doImport);
+      if(d2) d2.addEventListener('click', hideImportModal);
+      if(d3) d3.addEventListener('click', copyExportAll);
+      if(d4) d4.addEventListener('click', hideExportPanel);
     }
     if(document.readyState === 'loading'){ document.addEventListener('DOMContentLoaded', bindMigrate); }
     else { bindMigrate(); }
