@@ -1306,6 +1306,11 @@ if ("serviceWorker" in navigator && (location.protocol === "https:" || location.
     if(v) v.innerHTML = '<div class="empty">页面加载失败：' + esc(err.message) + '</div>';
     document.getElementById('splash').classList.add('hide');
   }
+  // 内联按钮(importPanel/exportPanel)需要全局可见的函数
+  window.doImport = doImport;
+  window.hideImportModal = hideImportModal;
+  window.copyExportAll = copyExportAll;
+  window.hideExportPanel = hideExportPanel;
 })();
 </script>
 </body>
