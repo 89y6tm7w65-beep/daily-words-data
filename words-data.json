@@ -7161,5 +7161,356 @@
     "tip": "on（进行中）+going（走）→ 一直在走 → 持续进行。新闻高频：ongoing conflict 持续的冲突。"
    }
   ]
+ },
+ {
+  "date": "2026-10-05",
+  "label": "10月5日",
+  "words": [
+   {
+    "w": "analogy",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/əˈnælədʒi/",
+    "pos": "n.",
+    "def": "类比；类推",
+    "ex": [
+     [
+      "The teacher drew an analogy between the heart and a pump.",
+      "老师把心脏比作水泵打了个类比。"
+     ],
+     [
+      "Analogy is a powerful tool for explaining complex ideas.",
+      "类比是解释复杂概念的有力工具。"
+     ],
+     [
+      "Critics rejected the analogy as misleading.",
+      "批评者认为这一类比具有误导性，不予接受。"
+     ]
+    ],
+    "tip": "ana-（按照）+log（说）+-y → 按同样方式“说” → 类比。同根 logic 逻辑、dialogue 对话。"
+   },
+   {
+    "w": "authentic",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ɔːˈθentɪk/",
+    "pos": "adj.",
+    "def": "真实的；正宗的；可信的",
+    "ex": [
+     [
+      "The museum displays authentic artifacts from the Ming dynasty.",
+      "博物馆展出了明代真品文物。"
+     ],
+     [
+      "She is known for her authentic style of communication.",
+      "她以真诚自然的沟通风格著称。"
+     ],
+     [
+      "This restaurant serves authentic Italian food.",
+      "这家餐厅供应正宗的意大利菜。"
+     ]
+    ],
+    "tip": "authent（作者/权威）+ic → 出自本人之手 → 真实可信。谐音“奥森蒂克”→ 原装正品。"
+   },
+   {
+    "w": "contradict",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ˌkɒntrəˈdɪkt/",
+    "pos": "v.",
+    "def": "反驳；与…相矛盾",
+    "ex": [
+     [
+      "The new evidence contradicts his earlier statement.",
+      "新证据与他先前的陈述相矛盾。"
+     ],
+     [
+      "He contradicted himself twice during the interview.",
+      "他在采访中两次自相矛盾。"
+     ],
+     [
+      "Don't contradict your boss in front of the whole team.",
+      "不要在全体团队面前反驳你的老板。"
+     ]
+    ],
+    "tip": "contra-（相反）+dict（说）→ 说相反的话 → 反驳。同根 dictate 口述、predict 预言。"
+   },
+   {
+    "w": "criteria",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/kraɪˈtɪəriə/",
+    "pos": "n.",
+    "def": "标准；准则（criterion 的复数）",
+    "ex": [
+     [
+      "The scholarship is awarded based on several criteria.",
+      "奖学金根据多项标准评定。"
+     ],
+     [
+      "Meeting the safety criteria is mandatory for all products.",
+      "所有产品都必须达到安全标准。"
+     ],
+     [
+      "We need to agree on the criteria before evaluating the proposals.",
+      "评估提案之前我们需要先就标准达成一致。"
+     ]
+    ],
+    "tip": "criterion 的复数是不规则变化（-on → -a），类似 phenomenon → phenomena。职场高频：selection criteria 遴选标准。"
+   },
+   {
+    "w": "dedicate",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ˈdedɪkeɪt/",
+    "pos": "v.",
+    "def": "奉献；致力于；题献",
+    "ex": [
+     [
+      "She dedicated ten years to improving rural education.",
+      "她致力于改善农村教育长达十年。"
+     ],
+     [
+      "The book is dedicated to her late father.",
+      "这本书题献给她已故的父亲。"
+     ],
+     [
+      "He dedicated himself entirely to the project.",
+      "他把全部精力都投入到这个项目中。"
+     ]
+    ],
+    "tip": "de-（加强）+dic（宣称）+ate → 郑重宣告献给 → 奉献。常用搭配 dedicate oneself to sth / be dedicated to。"
+   },
+   {
+    "w": "displace",
+    "lv": "C2",
+    "level": "C1-C2",
+    "ipa": "/dɪsˈpleɪs/",
+    "pos": "v.",
+    "def": "取代；迫使离开家园",
+    "ex": [
+     [
+      "Smartphones have largely displaced traditional cameras.",
+      "智能手机在很大程度上取代了传统相机。"
+     ],
+     [
+      "The flood displaced thousands of families.",
+      "洪水使数千个家庭流离失所。"
+     ],
+     [
+      "Automation may displace many factory workers.",
+      "自动化可能会取代许多工厂工人。"
+     ]
+    ],
+    "tip": "dis-（离开）+place（位置）→ 使离开原位 → 取代/驱逐。新闻高频：displaced people 流离失所者。"
+   },
+   {
+    "w": "drastic",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ˈdræstɪk/",
+    "pos": "adj.",
+    "def": "激烈的；急剧的；严厉的",
+    "ex": [
+     [
+      "The company took drastic measures to cut costs.",
+      "公司采取了严厉措施削减成本。"
+     ],
+     [
+      "There has been a drastic increase in online sales.",
+      "在线销售额出现了急剧增长。"
+     ],
+     [
+      "The government announced drastic changes to the tax system.",
+      "政府宣布对税收制度进行重大调整。"
+     ]
+    ],
+    "tip": "dras-（行动）+tic → 行动果断猛烈 → 剧烈的。新闻高频：drastic cut 大幅削减。"
+   },
+   {
+    "w": "endeavor",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ɪnˈdevə(r)/",
+    "pos": "n.&v.",
+    "def": "努力；尽力；尝试",
+    "ex": [
+     [
+      "We will endeavor to deliver the project on time.",
+      "我们将努力按时交付项目。"
+     ],
+     [
+      "Scientific endeavor requires patience and curiosity.",
+      "科学探索需要耐心和好奇心。"
+     ],
+     [
+      "The company's latest endeavor was a mobile payment app.",
+      "该公司最新的尝试是一款移动支付应用。"
+     ]
+    ],
+    "tip": "en-（使）+deavor（职责）→ 承担职责去努力 → 尽力。美式 endeavor / 英式 endeavour。职场正式用语。"
+   },
+   {
+    "w": "exemplify",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ɪɡˈzemplɪfaɪ/",
+    "pos": "v.",
+    "def": "例证；是…的典型",
+    "ex": [
+     [
+      "This case exemplifies the challenges facing small businesses.",
+      "这个案例例证了小企业面临的挑战。"
+     ],
+     [
+      "Her career exemplifies the value of lifelong learning.",
+      "她的职业生涯体现了终身学习的价值。"
+     ],
+     [
+      "The museum's new wing exemplifies modern architecture.",
+      "博物馆的新翼是现代建筑的典范。"
+     ]
+    ],
+    "tip": "exempl（例子，同 example）+ify（使…）→ 用例子说明 → 例证。学术写作高频：This exemplifies...。"
+   },
+   {
+    "w": "expenditure",
+    "lv": "C2",
+    "level": "C1-C2",
+    "ipa": "/ɪkˈspendɪtʃə(r)/",
+    "pos": "n.",
+    "def": "支出；花费；经费",
+    "ex": [
+     [
+      "Government expenditure on healthcare has increased.",
+      "政府在医疗保健方面的支出增加了。"
+     ],
+     [
+      "The company cut its capital expenditure this year.",
+      "公司今年削减了资本支出。"
+     ],
+     [
+      "We need to monitor our monthly expenditure more closely.",
+      "我们需要更密切地监控每月支出。"
+     ]
+    ],
+    "tip": "expend（花费）+iture（名词后缀）→ 花费 → 支出。同根 expense 费用、expensive 昂贵的。"
+   },
+   {
+    "w": "legacy",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ˈleɡəsi/",
+    "pos": "n.",
+    "def": "遗产；遗留的影响",
+    "ex": [
+     [
+      "The former president left a lasting legacy in education policy.",
+      "前总统在教育政策上留下了持久的影响。"
+     ],
+     [
+      "The company is still dealing with the legacy of outdated systems.",
+      "该公司仍在处理过时系统留下的遗留问题。"
+     ],
+     [
+      "He hoped his children would inherit his legacy of honesty.",
+      "他希望孩子们能继承他诚实正直的遗产。"
+     ]
+    ],
+    "tip": "leg（法律/委托）+acy → 依法留下的东西 → 遗产。职场高频：legacy system 遗留系统。"
+   },
+   {
+    "w": "migrate",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/maɪˈɡreɪt/",
+    "pos": "v.",
+    "def": "迁移；移居；转移",
+    "ex": [
+     [
+      "Many birds migrate south for the winter.",
+      "许多鸟类冬天南迁。"
+     ],
+     [
+      "Thousands of workers migrate to the city each year.",
+      "每年有成千上万的工人移居城市。"
+     ],
+     [
+      "The company plans to migrate its data to the cloud.",
+      "该公司计划将数据迁移到云端。"
+     ]
+    ],
+    "tip": "migr（迁移）+ate → 移动 → 迁移。同根 immigrant 移民、emigrate 移居国外。"
+   },
+   {
+    "w": "parallel",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ˈpærəlel/",
+    "pos": "adj.&n.",
+    "def": "平行的；相似的；相似之处",
+    "ex": [
+     [
+      "The road runs parallel to the river.",
+      "这条路与河流平行。"
+     ],
+     [
+      "There are striking parallels between the two crises.",
+      "这两场危机之间有惊人的相似之处。"
+     ],
+     [
+      "The two companies are developing parallel technologies.",
+      "这两家公司正在开发相似的技术。"
+     ]
+    ],
+    "tip": "para-（并列）+llel（彼此）→ 并排延伸 → 平行。学术高频：draw a parallel 做类比。"
+   },
+   {
+    "w": "revenue",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ˈrevənjuː/",
+    "pos": "n.",
+    "def": "收入；收益；税收",
+    "ex": [
+     [
+      "The company's annual revenue exceeded one billion dollars.",
+      "该公司年收入超过十亿美元。"
+     ],
+     [
+      "Tax revenue fell sharply during the recession.",
+      "经济衰退期间税收收入大幅下降。"
+     ],
+     [
+      "Advertising is the main source of revenue for the platform.",
+      "广告是该平台的主要收入来源。"
+     ]
+    ],
+    "tip": "re-（回）+venue（来）→ 收回来的钱 → 收入。商务新闻高频：revenue growth 收入增长。"
+   },
+   {
+    "w": "spontaneous",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/spɒnˈteɪniəs/",
+    "pos": "adj.",
+    "def": "自发的；自然的；即兴的",
+    "ex": [
+     [
+      "The audience broke into spontaneous applause.",
+      "观众自发地爆发出掌声。"
+     ],
+     [
+      "Their decision to move abroad was spontaneous.",
+      "他们移居国外的决定是心血来潮。"
+     ],
+     [
+      "She gave a spontaneous and heartfelt speech.",
+      "她发表了一段即兴而真挚的演讲。"
+     ]
+    ],
+    "tip": "spont（自发）+aneous → 自动发生的 → 自发的。联想“随时喷涌而出”→ 不假思索的自然反应。"
+   }
+  ]
  }
 ]
