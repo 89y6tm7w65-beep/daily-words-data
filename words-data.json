@@ -7512,5 +7512,356 @@
     "tip": "spont（自发）+aneous → 自动发生的 → 自发的。联想“随时喷涌而出”→ 不假思索的自然反应。"
    }
   ]
+ },
+ {
+  "date": "2026-10-06",
+  "label": "10月6日",
+  "words": [
+   {
+    "w": "accelerate",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/əkˈseləreɪt/",
+    "pos": "v.",
+    "def": "加速；促进；加快",
+    "ex": [
+     [
+      "The company accelerated the launch of its new product.",
+      "公司加快推出了新产品。"
+     ],
+     [
+      "Climate change is accelerating at an alarming rate.",
+      "气候变化正以惊人的速度加速。"
+     ],
+     [
+      "We need to accelerate our efforts to meet the deadline.",
+      "我们需要加快努力以赶上截止日期。"
+     ]
+    ],
+    "tip": "ac-（加强）+celer（快）+ate → 使更快 → 加速。同根 celerity 迅速。反义 decelerate 减速。"
+   },
+   {
+    "w": "aspire",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/əˈspaɪə(r)/",
+    "pos": "v.",
+    "def": "渴望；立志；追求",
+    "ex": [
+     [
+      "She aspires to become a leading researcher in her field.",
+      "她立志成为所在领域的顶尖研究者。"
+     ],
+     [
+      "Many young people aspire to work in the tech industry.",
+      "许多年轻人渴望进入科技行业工作。"
+     ],
+     [
+      "We aspire to provide the best service in the market.",
+      "我们力求提供市场上最好的服务。"
+     ]
+    ],
+    "tip": "a-（向）+spir（呼吸/渴望）+e → 向着目标“呼吸”→ 渴望。同根 spirit 精神、inspire 激励。"
+   },
+   {
+    "w": "attain",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/əˈteɪn/",
+    "pos": "v.",
+    "def": "达到；获得；实现",
+    "ex": [
+     [
+      "Only a few companies attain this level of quality.",
+      "只有少数公司能达到这种质量水平。"
+     ],
+     [
+      "She attained her goal of graduating with honors.",
+      "她实现了以优异成绩毕业的目标。"
+     ],
+     [
+      "The position can be attained through hard work and skill.",
+      "这个职位可以通过勤奋和技能获得。"
+     ]
+    ],
+    "tip": "at-（向）+tain（握住）→ 伸手握住目标 → 达到。同根 contain 容纳、maintain 维持。"
+   },
+   {
+    "w": "bias",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ˈbaɪəs/",
+    "pos": "n.&v.",
+    "def": "偏见；倾向；使有偏见",
+    "ex": [
+     [
+      "The study was criticized for its potential bias.",
+      "该研究因可能存在偏见而受到批评。"
+     ],
+     [
+      "Algorithms can reinforce existing human biases.",
+      "算法可能强化人类已有的偏见。"
+     ],
+     [
+      "She was biased against the proposal from the start.",
+      "她从一开始就对这项提案抱有偏见。"
+     ]
+    ],
+    "tip": "bias 谐音“拜亚”→ 一边倒向某人 → 偏见。新闻/学术高频：confirmation bias 确认偏误。"
+   },
+   {
+    "w": "counterpart",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ˈkaʊntəpɑːt/",
+    "pos": "n.",
+    "def": "对应的人或物；职位对等者",
+    "ex": [
+     [
+      "The foreign minister met with her Chinese counterpart.",
+      "外交部长会见了她的中国同行。"
+     ],
+     [
+      "This phone's main rival is its cheapest counterpart.",
+      "这款手机的主要竞争对手是其最便宜的同类机型。"
+     ],
+     [
+      "I discussed the issue with my counterpart at the partner firm.",
+      "我与合作公司的对应负责人讨论了这个问题。"
+     ]
+    ],
+    "tip": "counter-（相对）+part（部分）→ 相对的另一方 → 对应者。职场高频：my counterpart 对等职位的人。"
+   },
+   {
+    "w": "empathy",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ˈempəθi/",
+    "pos": "n.",
+    "def": "共情；同理心",
+    "ex": [
+     [
+      "Good leaders show empathy toward their team members.",
+      "优秀的领导者对团队成员表现出同理心。"
+     ],
+     [
+      "Empathy is essential in customer service.",
+      "同理心在客户服务中至关重要。"
+     ],
+     [
+      "She showed deep empathy for the victims' families.",
+      "她对受害者家属表现出深切的共情。"
+     ]
+    ],
+    "tip": "em-（进入）+pathy（情感）→ 进入他人的情感 → 共情。区分：empathy 感同身受 vs sympathy 同情。"
+   },
+   {
+    "w": "infer",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ɪnˈfɜː(r)/",
+    "pos": "v.",
+    "def": "推断；推论；暗示",
+    "ex": [
+     [
+      "We can infer from the data that demand is rising.",
+      "我们可以从数据推断出需求在上升。"
+     ],
+     [
+      "What do you infer from his silence?",
+      "你从他的沉默中推断出什么？"
+     ],
+     [
+      "Researchers inferred the age of the fossil from its layers.",
+      "研究者根据岩层推断出化石的年代。"
+     ]
+    ],
+    "tip": "in-（进入）+fer（带来）→ 从已知“带出”结论 → 推断。同根 refer 参考、transfer 转移。"
+   },
+   {
+    "w": "initiative",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ɪˈnɪʃətɪv/",
+    "pos": "n.",
+    "def": "倡议；新方案；主动性",
+    "ex": [
+     [
+      "The government launched a new initiative to support startups.",
+      "政府发起了一项支持初创企业的新倡议。"
+     ],
+     [
+      "She took the initiative to organize the team meeting.",
+      "她主动组织了团队会议。"
+     ],
+     [
+      "This green initiative has cut energy use by 20%.",
+      "这项绿色倡议使能源消耗减少了20%。"
+     ]
+    ],
+    "tip": "initi（开始）+ative → 迈出第一步 → 主动。职场高频：take the initiative 主动行动。"
+   },
+   {
+    "w": "magnitude",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ˈmæɡnɪtjuːd/",
+    "pos": "n.",
+    "def": "巨大；重要性；震级",
+    "ex": [
+     [
+      "People are only now realizing the magnitude of the problem.",
+      "人们现在才意识到问题的严重程度。"
+     ],
+     [
+      "The earthquake measured 7.2 in magnitude.",
+      "那次地震震级为7.2级。"
+     ],
+     [
+      "The magnitude of the task overwhelmed the new team.",
+      "任务的艰巨性让新团队不堪重负。"
+     ]
+    ],
+    "tip": "magn（大）+itude（状态）→ 大的程度 → 规模/重要。同根 magnify 放大、magnificent 宏伟的。"
+   },
+   {
+    "w": "merit",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ˈmerɪt/",
+    "pos": "n.&v.",
+    "def": "优点；功绩；值得",
+    "ex": [
+     [
+      "The proposal has both merits and drawbacks.",
+      "这项提案既有优点也有缺点。"
+     ],
+     [
+      "Employees are promoted on the basis of merit.",
+      "员工根据业绩晋升。"
+     ],
+     [
+      "The idea merits further discussion.",
+      "这个想法值得进一步讨论。"
+     ]
+    ],
+    "tip": "merit 谐音“卖力特”→ 卖力干活的人有功劳 → 功绩。职场高频：merit-based 论功行赏。"
+   },
+   {
+    "w": "overlook",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ˌəʊvəˈlʊk/",
+    "pos": "v.",
+    "def": "忽视；未注意到；俯瞰",
+    "ex": [
+     [
+      "We overlooked an important detail in the contract.",
+      "我们忽略了合同中的一个重要细节。"
+     ],
+     [
+      "Never overlook the value of customer feedback.",
+      "永远不要忽视客户反馈的价值。"
+     ],
+     [
+      "The hotel room overlooks the sea.",
+      "酒店房间俯瞰大海。"
+     ]
+    ],
+    "tip": "over-（越过）+look（看）→ 目光越过去没看到 → 忽视。职场高频：an overlooked detail 被忽略的细节。"
+   },
+   {
+    "w": "pledge",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/pledʒ/",
+    "pos": "v.&n.",
+    "def": "承诺；保证；誓言",
+    "ex": [
+     [
+      "The company pledged to reduce emissions by 2030.",
+      "该公司承诺到2030年减少排放。"
+     ],
+     [
+      "He made a pledge to donate half his wealth.",
+      "他承诺捐出一半财产。"
+     ],
+     [
+      "Officials pledged their support for the reform.",
+      "官员们承诺支持这项改革。"
+     ]
+    ],
+    "tip": "pledge 谐音“普雷奇”→ 拍胸脯保证 → 承诺。新闻高频：campaign pledge 竞选承诺。"
+   },
+   {
+    "w": "soar",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/sɔː(r)/",
+    "pos": "v.",
+    "def": "猛增；飙升；翱翔",
+    "ex": [
+     [
+      "Oil prices soared to a record high.",
+      "油价飙升至历史新高。"
+     ],
+     [
+      "The company's profits soared last quarter.",
+      "该公司上季度利润飙升。"
+     ],
+     [
+      "Eagles soar high above the mountains.",
+      "雄鹰在山峰上空翱翔。"
+     ]
+    ],
+    "tip": "soar 谐音“嗖”→ 嗖地一下飞上去 → 飙升。财经新闻高频：prices soar 物价飞涨。"
+   },
+   {
+    "w": "surge",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/sɜːdʒ/",
+    "pos": "n.&v.",
+    "def": "激增；汹涌；猛冲",
+    "ex": [
+     [
+      "There has been a surge in online shopping during the festival.",
+      "节日期间网购量激增。"
+     ],
+     [
+      "A surge of support followed the announcement.",
+      "消息宣布后支持者激增。"
+     ],
+     [
+      "The crowd surged forward toward the stage.",
+      "人群涌向舞台。"
+     ]
+    ],
+    "tip": "surge 谐音“射”→ 像水浪一样射出 → 激增。新闻高频：surge in demand 需求激增。"
+   },
+   {
+    "w": "volatile",
+    "lv": "C2",
+    "level": "C1-C2",
+    "ipa": "/ˈvɒlətaɪl/",
+    "pos": "adj.",
+    "def": "动荡不定的；易变的；挥发性的",
+    "ex": [
+     [
+      "The stock market has been highly volatile this month.",
+      "本月股市波动剧烈。"
+     ],
+     [
+      "Prices in the region remain volatile due to instability.",
+      "由于局势不稳，该地区物价仍然动荡。"
+     ],
+     [
+      "Gasoline is a volatile liquid that evaporates easily.",
+      "汽油是易挥发、易蒸发的液体。"
+     ]
+    ],
+    "tip": "volat（飞）+ile → 随时会飞走 → 易变/易挥发。财经新闻高频：volatile market 动荡的市场。"
+   }
+  ]
  }
 ]
