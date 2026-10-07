@@ -7863,5 +7863,356 @@
     "tip": "volat（飞）+ile → 随时会飞走 → 易变/易挥发。财经新闻高频：volatile market 动荡的市场。"
    }
   ]
+ },
+ {
+  "date": "2026-10-07",
+  "label": "10月7日",
+  "words": [
+   {
+    "w": "abolish",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/əˈbɒlɪʃ/",
+    "pos": "v.",
+    "def": "废除；取消；废止",
+    "ex": [
+     [
+      "The government abolished the outdated tax last year.",
+      "政府去年废除了这项过时的税种。"
+     ],
+     [
+      "Many countries have abolished the death penalty.",
+      "许多国家已经废除了死刑。"
+     ],
+     [
+      "The old rule was abolished after widespread criticism.",
+      "这条旧规定在广泛批评后被废除。"
+     ]
+    ],
+    "tip": "a-（离开）+bol（投掷）+ish → 把制度“扔开”→ 废除。同根 abolish→abolition 废除（名词）。"
+   },
+   {
+    "w": "accumulate",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/əˈkjuːmjəleɪt/",
+    "pos": "v.",
+    "def": "积累；积聚；逐渐增加",
+    "ex": [
+     [
+      "Over the years, she accumulated a large library of books.",
+      "多年来她积累了大量藏书。"
+     ],
+     [
+      "Dust had accumulated on the shelves.",
+      "架子上积满了灰尘。"
+     ],
+     [
+      "The company accumulated huge debts during the expansion.",
+      "公司在扩张期间积累了巨额债务。"
+     ]
+    ],
+    "tip": "ac-（加强）+cumul（堆积）+ate → 不断堆积 → 积累。同根 accumulate→cumulative 累积的。"
+   },
+   {
+    "w": "adversity",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ədˈvɜːsəti/",
+    "pos": "n.",
+    "def": "逆境；困境；不幸",
+    "ex": [
+     [
+      "She showed great courage in the face of adversity.",
+      "面对逆境她表现出极大的勇气。"
+     ],
+     [
+      "The team's success was achieved despite years of adversity.",
+      "尽管多年身处逆境，这支团队还是取得了成功。"
+     ],
+     [
+      "Adversity often reveals a person's true character.",
+      "逆境往往能显现一个人的真实品格。"
+     ]
+    ],
+    "tip": "ad-（向）+vers（转）+ity → 命运转向不利 → 逆境。同根 adverse 不利的、adversary 对手。"
+   },
+   {
+    "w": "agenda",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/əˈdʒendə/",
+    "pos": "n.",
+    "def": "议程；日程；意图",
+    "ex": [
+     [
+      "The first item on the agenda is the budget review.",
+      "议程第一项是预算审查。"
+     ],
+     [
+      "He had his own agenda for the meeting.",
+      "他对这次会议有自己的打算。"
+     ],
+     [
+      "Environmental issues are high on the political agenda.",
+      "环境议题在政治议程上排得很靠前。"
+     ]
+    ],
+    "tip": "ag（做）+enda（复数后缀）→ 要做的事清单 → 议程。职场高频：on the agenda 列入议程。"
+   },
+   {
+    "w": "audit",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ˈɔːdɪt/",
+    "pos": "n.&v.",
+    "def": "审计；审查；旁听",
+    "ex": [
+     [
+      "The annual audit revealed several accounting errors.",
+      "年度审计发现了多处会计差错。"
+     ],
+     [
+      "The company's books are audited by an external firm.",
+      "公司的账目由外部事务所审计。"
+     ],
+     [
+      "An independent audit confirmed the safety of the system.",
+      "独立审查确认了该系统的安全性。"
+     ]
+    ],
+    "tip": "aud（听）+it → 听账目汇报 → 审计。同根 audience 听众、audio 音频。"
+   },
+   {
+    "w": "cease",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/siːs/",
+    "pos": "v.",
+    "def": "停止；终止；结束",
+    "ex": [
+     [
+      "The company ceased production of the model in 2020.",
+      "该公司于2020年停止生产该型号。"
+     ],
+     [
+      "Both sides agreed to cease hostilities immediately.",
+      "双方同意立即停止敌对行动。"
+     ],
+     [
+      "The organization ceased to exist after the merger.",
+      "该组织在合并后不复存在。"
+     ]
+    ],
+    "tip": "cease 谐音“息死”→ 气息停止 → 停止。新闻正式用语：ceasefire 停火。"
+   },
+   {
+    "w": "commodity",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/kəˈmɒdəti/",
+    "pos": "n.",
+    "def": "商品；大宗商品；有用的东西",
+    "ex": [
+     [
+      "Oil and gold are the most traded commodities.",
+      "石油和黄金是交易量最大的大宗商品。"
+     ],
+     [
+      "The price of agricultural commodities rose sharply.",
+      "农产品价格大幅上涨。"
+     ],
+     [
+      "Time has become a scarce commodity for most people.",
+      "对大多数人来说时间已成为稀缺品。"
+     ]
+    ],
+    "tip": "commod（方便）+ity → 方便之物 → 商品。商务新闻高频：commodity prices 大宗商品价格。"
+   },
+   {
+    "w": "conform",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/kənˈfɔːm/",
+    "pos": "v.",
+    "def": "遵守；符合；顺应",
+    "ex": [
+     [
+      "All products must conform to safety standards.",
+      "所有产品都必须符合安全标准。"
+     ],
+     [
+      "He refused to conform to the company's dress code.",
+      "他拒绝遵守公司的着装规定。"
+     ],
+     [
+      "The building does not conform with local regulations.",
+      "该建筑不符合当地法规。"
+     ]
+    ],
+    "tip": "con-（共同）+form（形状）→ 做成同一形状 → 符合/顺应。职场高频：conform to rules 遵守规则。"
+   },
+   {
+    "w": "discern",
+    "lv": "C2",
+    "level": "C1-C2",
+    "ipa": "/dɪˈsɜːn/",
+    "pos": "v.",
+    "def": "辨别；识别；察觉",
+    "ex": [
+     [
+      "It is hard to discern the difference between the two versions.",
+      "很难辨别这两个版本之间的差异。"
+     ],
+     [
+      "She could discern a note of anxiety in his voice.",
+      "她能察觉到他声音里的焦虑。"
+     ],
+     [
+      "Analysts discern a clear trend toward remote work.",
+      "分析人士察觉到远程办公的明显趋势。"
+     ]
+    ],
+    "tip": "dis-（分开）+cern（筛选）→ 分拣出来 → 辨别。同根 concern 关心。C2 书面高频词。"
+   },
+   {
+    "w": "equity",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ˈekwəti/",
+    "pos": "n.",
+    "def": "公平；公正；股权",
+    "ex": [
+     [
+      "The reform aims to achieve greater equity in education.",
+      "这项改革旨在实现更大的教育公平。"
+     ],
+     [
+      "The startup raised funds by selling equity.",
+      "这家初创公司通过出售股权筹集资金。"
+     ],
+     [
+      "Pay equity remains a major workplace issue.",
+      "薪酬公平仍是职场的一大问题。"
+     ]
+    ],
+    "tip": "equ（相等）+ity → 人人平等 → 公平。财经高频：equity 股权 vs equality 平等。"
+   },
+   {
+    "w": "flourish",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ˈflʌrɪʃ/",
+    "pos": "v.",
+    "def": "繁荣；兴旺；茁壮成长",
+    "ex": [
+     [
+      "Small businesses flourish in this district.",
+      "小企业在这个街区蓬勃发展。"
+     ],
+     [
+      "The arts flourished during the Renaissance.",
+      "文艺复兴时期艺术蓬勃发展。"
+     ],
+     [
+      "Children flourish in a supportive environment.",
+      "孩子在支持性的环境中能茁壮成长。"
+     ]
+    ],
+    "tip": "flour（花）+ish → 像花开一样旺盛 → 繁荣。同根 flower 花。反义 wither 枯萎。"
+   },
+   {
+    "w": "fragile",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ˈfrædʒaɪl/",
+    "pos": "adj.",
+    "def": "脆弱的；易碎的；虚弱的",
+    "ex": [
+     [
+      "Please handle the fragile items with care.",
+      "请小心搬运易碎物品。"
+     ],
+     [
+      "The country's economy remains fragile after the crisis.",
+      "危机过后该国经济依然脆弱。"
+     ],
+     [
+      "The patient is still in fragile health.",
+      "病人身体状况仍然虚弱。"
+     ]
+    ],
+    "tip": "frag（破碎）+ile（易于）→ 易碎的。同根 fragment 碎片、fraction 一小部分。"
+   },
+   {
+    "w": "hazard",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ˈhæzəd/",
+    "pos": "n.&v.",
+    "def": "危险；隐患；冒险",
+    "ex": [
+     [
+      "Smoking is a serious health hazard.",
+      "吸烟是严重的健康隐患。"
+     ],
+     [
+      "Workers must be trained to identify safety hazards.",
+      "工人必须接受识别安全隐患的培训。"
+     ],
+     [
+      "The broken rail was a hazard to cyclists.",
+      "断裂的栏杆对骑车人构成危险。"
+     ]
+    ],
+    "tip": "hazard 谐音“哈泽”→ 打游戏碰到的“危险区”→ 危险。职场高频：safety hazard 安全隐患。"
+   },
+   {
+    "w": "persist",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/pəˈsɪst/",
+    "pos": "v.",
+    "def": "坚持；持续存在",
+    "ex": [
+     [
+      "If the symptoms persist, consult your doctor.",
+      "如果症状持续，请咨询医生。"
+     ],
+     [
+      "She persisted in her efforts despite repeated failures.",
+      "尽管屡次失败，她仍然坚持努力。"
+     ],
+     [
+      "The problem persists even after the update.",
+      "更新后问题依然存在。"
+     ]
+    ],
+    "tip": "per-（一直）+sist（站立）→ 一直站着不走 → 坚持。同根 resist 抵抗、assist 协助。"
+   },
+   {
+    "w": "warrant",
+    "lv": "C2",
+    "level": "C1-C2",
+    "ipa": "/ˈwɒrənt/",
+    "pos": "v.&n.",
+    "def": "值得；保证；授权；正当理由",
+    "ex": [
+     [
+      "The severity of the issue warrants immediate action.",
+      "问题的严重性使得立即行动确有必要。"
+     ],
+     [
+      "The police obtained a warrant to search the house.",
+      "警方获得了搜查该房屋的搜查令。"
+     ],
+     [
+      "His behavior does not warrant such criticism.",
+      "他的行为不值得受到这样的批评。"
+     ]
+    ],
+    "tip": "warr（保护）+ant → 有保护依据 → 有理由/授权。职场高频：warrant attention 值得关注。"
+   }
+  ]
  }
 ]
