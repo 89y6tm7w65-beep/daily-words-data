@@ -8214,5 +8214,356 @@
     "tip": "warr（保护）+ant → 有保护依据 → 有理由/授权。职场高频：warrant attention 值得关注。"
    }
   ]
+ },
+ {
+  "date": "2026-10-08",
+  "label": "10月8日",
+  "words": [
+   {
+    "w": "apparent",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/əˈpærənt/",
+    "pos": "adj.",
+    "def": "明显的；表面上的；显而易见的",
+    "ex": [
+     [
+      "It became apparent that the plan would not work.",
+      "计划行不通这一点已经很明显了。"
+     ],
+     [
+      "The apparent success of the policy was later questioned.",
+      "该政策表面上的成功后来受到了质疑。"
+     ],
+     [
+      "Her talent was apparent from an early age.",
+      "她的天赋从小就很明显。"
+     ]
+    ],
+    "tip": "appar（出现）+ent → 浮现出来的 → 明显的。注意双关义：apparent 既表“明显”也表“表面上的”。"
+   },
+   {
+    "w": "applicable",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/əˈplɪkəbl/",
+    "pos": "adj.",
+    "def": "适用的；可应用的；相关的",
+    "ex": [
+     [
+      "These rules are applicable to all employees.",
+      "这些规定适用于所有员工。"
+     ],
+     [
+      "The new law is not applicable to small businesses.",
+      "这项新法律不适用于小企业。"
+     ],
+     [
+      "The theory is applicable in many real-world situations.",
+      "这一理论在众多现实情境中都适用。"
+     ]
+    ],
+    "tip": "appli（应用，同 apply）+able（可…的）→ 可应用的。职场高频：where applicable 在适用之处。"
+   },
+   {
+    "w": "chronic",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ˈkrɒnɪk/",
+    "pos": "adj.",
+    "def": "慢性的；长期的；顽固的",
+    "ex": [
+     [
+      "He suffers from chronic back pain.",
+      "他患有慢性背痛。"
+     ],
+     [
+      "The city faces chronic housing shortages.",
+      "这座城市面临长期住房短缺。"
+     ],
+     [
+      "Chronic stress can damage your health.",
+      "长期压力会损害健康。"
+     ]
+    ],
+    "tip": "chron（时间）+ic → 拖很长时间的 → 慢性的。同根 chronology 年表、synchronize 同步。"
+   },
+   {
+    "w": "contend",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/kənˈtend/",
+    "pos": "v.",
+    "def": "主张；争辩；竞争",
+    "ex": [
+     [
+      "The researchers contend that the results are reliable.",
+      "研究人员主张这些结果是可靠的。"
+     ],
+     [
+      "Several teams are contending for the championship.",
+      "几支队伍正在角逐冠军。"
+     ],
+     [
+      "He contends that the decision was unfair.",
+      "他坚称这一决定不公平。"
+     ]
+    ],
+    "tip": "con-（共同）+tend（伸展）→ 一起伸手去抢 → 竞争/争辩。新闻高频：contend that 主张…"
+   },
+   {
+    "w": "conventional",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/kənˈvenʃənl/",
+    "pos": "adj.",
+    "def": "传统的；常规的；因循守旧的",
+    "ex": [
+     [
+      "Conventional methods have failed to solve the problem.",
+      "常规方法未能解决这个问题。"
+     ],
+     [
+      "She rejected conventional career paths.",
+      "她拒绝了常规的职业道路。"
+     ],
+     [
+      "The building's design is quite conventional.",
+      "这座建筑的设计相当传统。"
+     ]
+    ],
+    "tip": "conven（聚集）+tion+al → 大家聚集商议定下的规矩 → 惯例的。反义 unconventional 非传统的。"
+   },
+   {
+    "w": "diligent",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ˈdɪlɪdʒənt/",
+    "pos": "adj.",
+    "def": "勤奋的；用功的；尽职的",
+    "ex": [
+     [
+      "She is a diligent student who never misses class.",
+      "她是个勤奋的学生，从不缺课。"
+     ],
+     [
+      "The diligent review of the report took three days.",
+      "尽职尽责地审查这份报告花了三天。"
+     ],
+     [
+      "His diligent work finally paid off.",
+      "他的勤奋工作终于得到了回报。"
+     ]
+    ],
+    "tip": "dilig（爱）+ent → 热爱工作 → 勤奋的。同根 diligent→diligence 勤勉（名词）。"
+   },
+   {
+    "w": "evoke",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ɪˈvəʊk/",
+    "pos": "v.",
+    "def": "唤起；引起；使人想起",
+    "ex": [
+     [
+      "The song evokes memories of my childhood.",
+      "这首歌唤起我童年的回忆。"
+     ],
+     [
+      "The film evokes a strong sense of nostalgia.",
+      "这部电影唤起强烈的怀旧感。"
+     ],
+     [
+      "His speech evoked anger among the audience.",
+      "他的演讲激起了听众的愤怒。"
+     ]
+    ],
+    "tip": "e-（向外）+voke（呼喊）→ 把记忆“喊”出来 → 唤起。同根 provoke 激怒、revoke 撤销。"
+   },
+   {
+    "w": "imperative",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ɪmˈperətɪv/",
+    "pos": "adj.&n.",
+    "def": "至关重要的；必须做的；必须做的事",
+    "ex": [
+     [
+      "It is imperative that we act immediately.",
+      "我们必须立即采取行动。"
+     ],
+     [
+      "Reducing emissions is an environmental imperative.",
+      "减少排放是环境方面的当务之急。"
+     ],
+     [
+      "Customer trust is imperative for any business.",
+      "客户信任对任何企业都至关重要。"
+     ]
+    ],
+    "tip": "imper（命令）+ative → 必须照办的 → 紧迫的。职场高频：it is imperative that…（后接虚拟语气）。"
+   },
+   {
+    "w": "integral",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ˈɪntɪɡrəl/",
+    "pos": "adj.",
+    "def": "不可或缺的；构成整体所必需的",
+    "ex": [
+     [
+      "Exercise is an integral part of a healthy lifestyle.",
+      "锻炼是健康生活方式不可或缺的一部分。"
+     ],
+     [
+      "The new system is integral to our daily operations.",
+      "新系统对我们的日常运营至关重要。"
+     ],
+     [
+      "She plays an integral role in the team.",
+      "她在团队中发挥着不可或缺的作用。"
+     ]
+    ],
+    "tip": "integr（完整）+al → 构成整体的 → 不可或缺的。同根 integrate 整合、integrity 完整。"
+   },
+   {
+    "w": "intuition",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ˌɪntjuˈɪʃn/",
+    "pos": "n.",
+    "def": "直觉；本能感觉",
+    "ex": [
+     [
+      "Her intuition told her something was wrong.",
+      "她的直觉告诉她出事了。"
+     ],
+     [
+      "Good managers trust their intuition when making decisions.",
+      "优秀的管理者在做决定时会相信自己的直觉。"
+     ],
+     [
+      "Intuition is often hard to explain logically.",
+      "直觉往往很难用逻辑解释。"
+     ]
+    ],
+    "tip": "in-（向内）+tuit（看护）+ion → 内心深处的“看守”→ 直觉。同根 tutor 指导。"
+   },
+   {
+    "w": "prospect",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ˈprɒspekt/",
+    "pos": "n.",
+    "def": "前景；可能性；有望成为…的人",
+    "ex": [
+     [
+      "The prospect of working abroad excites her.",
+      "去国外工作的前景让她很兴奋。"
+     ],
+     [
+      "Economic prospects for next year look bright.",
+      "明年的经济前景看起来一片光明。"
+     ],
+     [
+      "She is a promising prospect for the position.",
+      "她是有望获得该职位的人选。"
+     ]
+    ],
+    "tip": "pro-（向前）+spect（看）→ 向前看 → 前景。同根 inspect 检查、prospect→prospective 未来的。"
+   },
+   {
+    "w": "rationale",
+    "lv": "C2",
+    "level": "C1-C2",
+    "ipa": "/ˌræʃəˈnɑːl/",
+    "pos": "n.",
+    "def": "根本原因；逻辑依据；理由",
+    "ex": [
+     [
+      "The rationale behind the decision was never explained.",
+      "这一决定背后的逻辑依据从未得到解释。"
+     ],
+     [
+      "What is the rationale for changing the policy?",
+      "改变政策的理由是什么？"
+     ],
+     [
+      "The rationale for the merger is cost savings.",
+      "合并的根本原因是节省成本。"
+     ]
+    ],
+    "tip": "ration（理性，同 reason）+ale → 理性依据 → 理由。职场高频：the rationale behind… …背后的逻辑。"
+   },
+   {
+    "w": "refrain",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/rɪˈfreɪn/",
+    "pos": "v.",
+    "def": "克制；忍住；避免",
+    "ex": [
+     [
+      "Please refrain from smoking in this area.",
+      "请勿在本区域吸烟。"
+     ],
+     [
+      "She refrained from commenting on the controversy.",
+      "她忍住没有对争议发表评论。"
+     ],
+     [
+      "Investors should refrain from panic selling.",
+      "投资者应避免恐慌性抛售。"
+     ]
+    ],
+    "tip": "re-（向后）+frain（勒住缰绳）→ 拉住自己 → 克制。正式用语：refrain from doing sth。"
+   },
+   {
+    "w": "stance",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/stæns/",
+    "pos": "n.",
+    "def": "立场；态度；姿态",
+    "ex": [
+     [
+      "The government has taken a firm stance on the issue.",
+      "政府在这个问题上采取了强硬立场。"
+     ],
+     [
+      "The company clarified its stance on remote work.",
+      "公司澄清了其对远程办公的立场。"
+     ],
+     [
+      "His stance on immigration changed over time.",
+      "他在移民问题上的立场随着时间发生了变化。"
+     ]
+    ],
+    "tip": "stanc（站，同 stand）+e → 站的位置 → 立场。新闻高频：take a stance 表态。"
+   },
+   {
+    "w": "trait",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/treɪt/",
+    "pos": "n.",
+    "def": "特征；特质；特点",
+    "ex": [
+     [
+      "Honesty is a trait we value in employees.",
+      "诚实是我们看重员工的品质。"
+     ],
+     [
+      "The study examined personality traits in leaders.",
+      "该研究考察了领导者的个性特质。"
+     ],
+     [
+      "A rare genetic trait makes his eyes appear violet.",
+      "一种罕见的基因特征让他的眼睛呈紫色。"
+     ]
+    ],
+    "tip": "trait 谐音“锤特”→ 每个人身上“锤打出的烙印”→ 特质。学术高频：personality traits 性格特质。"
+   }
+  ]
  }
 ]
