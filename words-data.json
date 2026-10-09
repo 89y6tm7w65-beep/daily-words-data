@@ -8565,5 +8565,356 @@
     "tip": "trait 谐音“锤特”→ 每个人身上“锤打出的烙印”→ 特质。学术高频：personality traits 性格特质。"
    }
   ]
+ },
+ {
+  "date": "2026-10-09",
+  "label": "10月9日",
+  "words": [
+   {
+    "w": "confine",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/kənˈfaɪn/",
+    "pos": "v.",
+    "def": "限制；局限于；禁闭",
+    "ex": [
+     [
+      "Please confine your remarks to the topic at hand.",
+      "请把发言限制在当前话题上。"
+     ],
+     [
+      "The fire was confined to the basement.",
+      "火势被控制在底层地下室范围内。"
+     ],
+     [
+      "He was confined to bed with a high fever.",
+      "他因高烧卧床不起。"
+     ]
+    ],
+    "tip": "con-（共同）+fin（边界）+e → 划出共同边界 → 限制。同根 final 终点、finance 结清。"
+   },
+   {
+    "w": "dubious",
+    "lv": "C2",
+    "level": "C1-C2",
+    "ipa": "/ˈdjuːbiəs/",
+    "pos": "adj.",
+    "def": "可疑的；怀疑的；靠不住的",
+    "ex": [
+     [
+      "The claim is dubious and needs more evidence.",
+      "这一说法很可疑，需要更多证据。"
+     ],
+     [
+      "She was dubious about the deal from the start.",
+      "她从一开始就怀疑这笔交易。"
+     ],
+     [
+      "He has a dubious reputation in the industry.",
+      "他在业内名声不佳。"
+     ]
+    ],
+    "tip": "dub（二，同 double）+ious → 心里有两面 → 半信半疑的。同根 doubt 怀疑、indubitable 不容置疑的。"
+   },
+   {
+    "w": "entitle",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ɪnˈtaɪtl/",
+    "pos": "v.",
+    "def": "使有权；给…命名；使有资格",
+    "ex": [
+     [
+      "Employees are entitled to paid leave.",
+      "员工有权享受带薪休假。"
+     ],
+     [
+      "The book is entitled \"The Art of Learning\".",
+      "这本书名为《学习的艺术》。"
+     ],
+     [
+      "Membership entitles you to a 10% discount.",
+      "会员资格让你享有10%的折扣。"
+     ]
+    ],
+    "tip": "en-（使）+title（标题/权利）→ 赋予权利或名分 → 使有权。职场高频：be entitled to 有权享有。"
+   },
+   {
+    "w": "exclusive",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ɪkˈskluːsɪv/",
+    "pos": "adj.",
+    "def": "独家的；专用的；高档的；排外的",
+    "ex": [
+     [
+      "The magazine published an exclusive interview.",
+      "该杂志发布了独家专访。"
+     ],
+     [
+      "The club is exclusive to its members.",
+      "该俱乐部仅对会员开放。"
+     ],
+     [
+      "This is our exclusive supplier agreement.",
+      "这是我们专用的供应商协议。"
+     ]
+    ],
+    "tip": "ex-（向外）+clus（关闭）+ive → 把别人关在外面 → 排外的/独家的。反义 inclusive 包容的。"
+   },
+   {
+    "w": "foresee",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/fɔːˈsiː/",
+    "pos": "v.",
+    "def": "预见；预知；预料",
+    "ex": [
+     [
+      "No one could foresee the scale of the crisis.",
+      "没人能预见到危机的规模。"
+     ],
+     [
+      "We foresee strong demand in the coming months.",
+      "我们预计未来几个月需求强劲。"
+     ],
+     [
+      "The risks were foreseeable and should have been addressed.",
+      "这些风险本可预见，早该处理。"
+     ]
+    ],
+    "tip": "fore-（前面）+see（看）→ 提前看到 → 预见。同根 forecast 预报、foreword 前言。"
+   },
+   {
+    "w": "gauge",
+    "lv": "C2",
+    "level": "C1-C2",
+    "ipa": "/ɡeɪdʒ/",
+    "pos": "v.&n.",
+    "def": "测量；估计；判断；仪表",
+    "ex": [
+     [
+      "The survey gauges public opinion on the reform.",
+      "这项调查衡量公众对改革的看法。"
+     ],
+     [
+      "It is hard to gauge how the market will react.",
+      "很难判断市场会作何反应。"
+     ],
+     [
+      "The fuel gauge showed empty.",
+      "油表显示已无油。"
+     ]
+    ],
+    "tip": "gauge 谐音“给指”→ 仪表给指针 → 测量/估计。职场高频：gauge the impact 评估影响。"
+   },
+   {
+    "w": "ignite",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ɪɡˈnaɪt/",
+    "pos": "v.",
+    "def": "点燃；引发；激起",
+    "ex": [
+     [
+      "The spark ignited the dry grass.",
+      "火花点燃了干草。"
+     ],
+     [
+      "The announcement ignited a public debate.",
+      "这一声明引发了一场公开辩论。"
+     ],
+     [
+      "The protest was ignited by rising prices.",
+      "抗议活动由物价上涨引发。"
+     ]
+    ],
+    "tip": "ign（火，同 fire）+ite → 点火 → 点燃。新闻高频：ignite debate 引发争论。名词 ignition 点火。"
+   },
+   {
+    "w": "inclined",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ɪnˈklaɪnd/",
+    "pos": "adj.",
+    "def": "倾向于…的；有…意向的",
+    "ex": [
+     [
+      "I am inclined to agree with your proposal.",
+      "我倾向于同意你的提议。"
+     ],
+     [
+      "She is not inclined to take unnecessary risks.",
+      "她不倾向于冒不必要的风险。"
+     ],
+     [
+      "He felt inclined to leave early.",
+      "他有意提前离开。"
+     ]
+    ],
+    "tip": "in-（向）+clin（倾斜）+ed → 心里倾向 → 倾向于。同根 incline 倾斜、decline 下降。"
+   },
+   {
+    "w": "indifferent",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ɪnˈdɪfrənt/",
+    "pos": "adj.",
+    "def": "漠不关心的；冷淡的；无关紧要的",
+    "ex": [
+     [
+      "He seems indifferent to the team's problems.",
+      "他对团队的问题似乎漠不关心。"
+     ],
+     [
+      "She was indifferent to fame and wealth.",
+      "她对名利无动于衷。"
+     ],
+     [
+      "The audience was largely indifferent to the show.",
+      "观众对这档节目大多反应冷淡。"
+     ]
+    ],
+    "tip": "in-（不）+different（不同）→ 对什么都无差别 → 漠不关心。注意：与 different 无关。"
+   },
+   {
+    "w": "inspect",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ɪnˈspekt/",
+    "pos": "v.",
+    "def": "检查；视察；审查",
+    "ex": [
+     [
+      "Officials inspected the factory for safety violations.",
+      "官员们检查工厂是否存在安全隐患。"
+     ],
+     [
+      "The engineer inspected the bridge before reopening it.",
+      "工程师在重新开放前检查了这座桥。"
+     ],
+     [
+      "Customs officers inspected our luggage.",
+      "海关人员检查了我们的行李。"
+     ]
+    ],
+    "tip": "in-（向内）+spect（看）→ 往里看 → 检查。同根 inspect→inspection 检查、prospect 前景。"
+   },
+   {
+    "w": "moderate",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ˈmɒdərət/",
+    "pos": "adj.&v.",
+    "def": "适度的；温和的；缓和",
+    "ex": [
+     [
+      "We expect moderate growth this quarter.",
+      "我们预计本季度温和增长。"
+     ],
+     [
+      "Drinking in moderation is less harmful.",
+      "适量饮酒危害较小。"
+     ],
+     [
+      "The government tried to moderate the impact of inflation.",
+      "政府试图缓和通货膨胀的影响。"
+     ]
+    ],
+    "tip": "moder（尺度）+ate → 保持尺度 → 适度的。职场高频：moderate growth 温和增长。"
+   },
+   {
+    "w": "optimal",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ˈɒptɪməl/",
+    "pos": "adj.",
+    "def": "最佳的；最优的；最理想的",
+    "ex": [
+     [
+      "The algorithm finds the optimal solution.",
+      "该算法能找到最优解。"
+     ],
+     [
+      "A balanced diet is optimal for health.",
+      "均衡饮食对健康最理想。"
+     ],
+     [
+      "We need to determine the optimal price for the product.",
+      "我们需要确定产品的最优价格。"
+     ]
+    ],
+    "tip": "optim（最好）+al → 最好的 → 最优的。同根 optimum 最优值、optimist 乐观者。"
+   },
+   {
+    "w": "precaution",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/prɪˈkɔːʃn/",
+    "pos": "n.",
+    "def": "预防措施；预防；防备",
+    "ex": [
+     [
+      "We took precautions against data loss.",
+      "我们采取了防止数据丢失的预防措施。"
+     ],
+     [
+      "As a precaution, please back up your files.",
+      "作为预防措施，请备份你的文件。"
+     ],
+     [
+      "Safety precautions must be followed at all times.",
+      "必须始终遵守安全防范措施。"
+     ]
+    ],
+    "tip": "pre-（提前）+caut（小心）+ion → 提前小心 → 预防。职场高频：take precautions 采取防范措施。"
+   },
+   {
+    "w": "prompt",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/prɒmpt/",
+    "pos": "v.&adj.",
+    "def": "促使；激起；及时的",
+    "ex": [
+     [
+      "The report prompted a review of company policy.",
+      "这份报告促使公司重新审查政策。"
+     ],
+     [
+      "What prompted you to change jobs?",
+      "是什么促使你换工作的？"
+     ],
+     [
+      "Thank you for your prompt reply.",
+      "感谢你的及时回复。"
+     ]
+    ],
+    "tip": "prompt 谐音“破门”→ 敲门促使你行动 → 促使。职场高频：prompt action 及时行动。"
+   },
+   {
+    "w": "tremendous",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/trəˈmendəs/",
+    "pos": "adj.",
+    "def": "巨大的；极好的；惊人的",
+    "ex": [
+     [
+      "The project was a tremendous success.",
+      "这个项目取得了巨大成功。"
+     ],
+     [
+      "There is tremendous pressure on young athletes.",
+      "年轻运动员承受着巨大压力。"
+     ],
+     [
+      "She has a tremendous amount of energy.",
+      "她精力极其充沛。"
+     ]
+    ],
+    "tip": "trem（颤抖）+endous → 大到让人发抖 → 巨大的。同根 tremble 颤抖、tremor 震动。"
+   }
+  ]
  }
 ]
