@@ -9267,5 +9267,356 @@
     "tip": "tra-（穿过）+ject（投掷）+ory → 投出去划过的线 → 轨迹。同根 project 投射、eject 弹出。"
    }
   ]
+ },
+ {
+  "date": "2026-10-12",
+  "label": "10月12日",
+  "words": [
+   {
+    "w": "abundant",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/əˈbʌndənt/",
+    "pos": "adj.",
+    "def": "丰富的；充裕的；大量的",
+    "ex": [
+     [
+      "The region has abundant natural resources.",
+      "该地区自然资源丰富。"
+     ],
+     [
+      "Abundant evidence supports the theory.",
+      "大量证据支持这一理论。"
+     ],
+     [
+      "The market is abundant with fresh produce.",
+      "市场上新鲜农产品供应充足。"
+     ]
+    ],
+    "tip": "ab-（加强）+und（波浪）+ant → 像波浪一样涌来 → 丰富的。同根 abundance 丰富。"
+   },
+   {
+    "w": "blatant",
+    "lv": "C2",
+    "level": "C1-C2",
+    "ipa": "/ˈbleɪtnt/",
+    "pos": "adj.",
+    "def": "公然的；明目张胆的；露骨的",
+    "ex": [
+     [
+      "The report exposed blatant corruption.",
+      "报告揭露了公然腐败。"
+     ],
+     [
+      "It was a blatant lie to the public.",
+      "这是对公众明目张胆的谎言。"
+     ],
+     [
+      "The company showed blatant disregard for safety rules.",
+      "该公司公然无视安全规定。"
+     ]
+    ],
+    "tip": "blat 谐音“不赖特”→ 不加掩饰 → 公然的。新闻高频：blatant violation 公然违规。"
+   },
+   {
+    "w": "cohesive",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/kəʊˈhiːsɪv/",
+    "pos": "adj.",
+    "def": "有凝聚力的；团结的；连贯的",
+    "ex": [
+     [
+      "Teamwork creates a cohesive unit.",
+      "团队协作造就了有凝聚力的集体。"
+     ],
+     [
+      "The report needs a more cohesive structure.",
+      "这份报告需要更连贯的结构。"
+     ],
+     [
+      "Shared values keep the community cohesive.",
+      "共同的价值观让社区保持团结。"
+     ]
+    ],
+    "tip": "co-（共同）+hes（粘）+ive → 粘合在一起 → 有凝聚力的。同根 adhere 黏附。"
+   },
+   {
+    "w": "complacent",
+    "lv": "C2",
+    "level": "C1-C2",
+    "ipa": "/kəmˈpleɪsnt/",
+    "pos": "adj.",
+    "def": "自满的；沾沾自喜的；满足现状的",
+    "ex": [
+     [
+      "We cannot afford to be complacent about progress.",
+      "我们不能对进展自满。"
+     ],
+     [
+      "A complacent attitude led to the company's decline.",
+      "自满的态度导致了公司衰落。"
+     ],
+     [
+      "Complacent drivers cause accidents.",
+      "自满的司机容易引发事故。"
+     ]
+    ],
+    "tip": "com-（加强）+plac（取悦）+ent → 自我取悦 → 自满。同根 please 取悦、placate 安抚。"
+   },
+   {
+    "w": "discourse",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ˈdɪskɔːs/",
+    "pos": "n.",
+    "def": "话语；论述；交谈；演讲",
+    "ex": [
+     [
+      "Public discourse on climate change has intensified.",
+      "关于气候变化的公共讨论日益激烈。"
+     ],
+     [
+      "The professor gave a discourse on modern art.",
+      "教授就现代艺术发表了一篇论述。"
+     ],
+     [
+      "Political discourse has become increasingly polarized.",
+      "政治话语日益两极分化。"
+     ]
+    ],
+    "tip": "dis-（来回）+course（跑）→ 话语来回跑 → 论述/交谈。学术高频：public discourse 公共话语。"
+   },
+   {
+    "w": "disperse",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/dɪˈspɜːs/",
+    "pos": "v.",
+    "def": "驱散；散开；散布；疏散",
+    "ex": [
+     [
+      "Police dispersed the crowd peacefully.",
+      "警方和平驱散了人群。"
+     ],
+     [
+      "The fog dispersed by mid-morning.",
+      "雾在上午十点左右散去。"
+     ],
+     [
+      "Seeds are dispersed by wind and animals.",
+      "种子靠风力和动物传播。"
+     ]
+    ],
+    "tip": "di-（分散）+sperse（撒）→ 撒开 → 驱散。同根 sparse 稀疏的、intersperse 点缀。"
+   },
+   {
+    "w": "ingenuity",
+    "lv": "C2",
+    "level": "C1-C2",
+    "ipa": "/ˌɪndʒəˈnjuːəti/",
+    "pos": "n.",
+    "def": "独创性；心灵手巧；聪明才智",
+    "ex": [
+     [
+      "The solution required great ingenuity.",
+      "这个解决方案需要极大的独创性。"
+     ],
+     [
+      "Human ingenuity has driven technological progress.",
+      "人类的聪明才智推动了技术进步。"
+     ],
+     [
+      "Engineers used their ingenuity to solve the problem.",
+      "工程师们运用才智解决了问题。"
+     ]
+    ],
+    "tip": "in-（在内）+genu（天生）+ity → 天生内在的智慧 → 独创性。同根 ingenious 巧妙的。"
+   },
+   {
+    "w": "intermittent",
+    "lv": "C2",
+    "level": "C1-C2",
+    "ipa": "/ˌɪntəˈmɪtənt/",
+    "pos": "adj.",
+    "def": "间歇的；断断续续的",
+    "ex": [
+     [
+      "The radio signal was intermittent.",
+      "无线电信号时断时续。"
+     ],
+     [
+      "Intermittent rain continued through the week.",
+      "间歇性降雨持续了一周。"
+     ],
+     [
+      "He suffers from intermittent back pain.",
+      "他忍受着间歇性背痛。"
+     ]
+    ],
+    "tip": "inter-（之间）+mitt（送）+ent → 中间有停顿地送 → 间歇的。同根 commit 委托、omit 省略。"
+   },
+   {
+    "w": "intuitive",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ɪnˈtjuːɪtɪv/",
+    "pos": "adj.",
+    "def": "直觉的；凭直觉的；易懂的",
+    "ex": [
+     [
+      "She has an intuitive understanding of design.",
+      "她对设计有直觉性的理解。"
+     ],
+     [
+      "The new interface is simple and intuitive.",
+      "新界面简单直观。"
+     ],
+     [
+      "His intuitive sense told him to wait.",
+      "他的直觉告诉他应该等待。"
+     ]
+    ],
+    "tip": "in-（向内）+tuit（看护）+ive → 内心看守 → 直觉的。同根 intuition 直觉。产品高频：intuitive UI。"
+   },
+   {
+    "w": "pertain",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/pəˈteɪn/",
+    "pos": "v.",
+    "def": "涉及；关于；适用于",
+    "ex": [
+     [
+      "The rules pertain to all employees.",
+      "这些规定适用于所有员工。"
+     ],
+     [
+      "Documents pertaining to the case were sealed.",
+      "与该案件相关的文件被密封。"
+     ],
+     [
+      "This chapter pertains to financial planning.",
+      "本章涉及财务规划。"
+     ]
+    ],
+    "tip": "per-（完全）+tain（拿住）→ 与…紧密相连 → 涉及。同根 contain 包含、retain 保留。"
+   },
+   {
+    "w": "prescribe",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/prɪˈskraɪb/",
+    "pos": "v.",
+    "def": "开药方；规定；指定",
+    "ex": [
+     [
+      "The doctor prescribed antibiotics for the infection.",
+      "医生为感染开了抗生素。"
+     ],
+     [
+      "The law prescribes strict penalties for fraud.",
+      "法律对欺诈规定了严厉处罚。"
+     ],
+     [
+      "The course prescribes required reading materials.",
+      "课程指定了必读材料。"
+     ]
+    ],
+    "tip": "pre-（预先）+scribe（写）→ 提前写好处方/规则 → 开药/规定。同根 describe 描述、subscribe 订阅。"
+   },
+   {
+    "w": "probe",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/prəʊb/",
+    "pos": "v.&n.",
+    "def": "探查；调查；探究；探针",
+    "ex": [
+     [
+      "Journalists probed the company's financial records.",
+      "记者深入调查了公司的财务记录。"
+     ],
+     [
+      "The study probes the causes of urban poverty.",
+      "该研究探究城市贫困的成因。"
+     ],
+     [
+      "Doctors inserted a probe to examine the wound.",
+      "医生插入探针检查伤口。"
+     ]
+    ],
+    "tip": "probe 谐音“剖薄”→ 剖开探个究竟 → 探查。新闻高频：probe into 深入调查。"
+   },
+   {
+    "w": "resort",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/rɪˈzɔːt/",
+    "pos": "v.&n.",
+    "def": "诉诸；求助；度假胜地；手段",
+    "ex": [
+     [
+      "They resorted to legal action to settle the dispute.",
+      "他们诉诸法律手段解决争端。"
+     ],
+     [
+      "The team resorted to desperate measures.",
+      "团队采取了孤注一掷的手段。"
+     ],
+     [
+      "We spent the weekend at a beach resort.",
+      "我们在海滨度假村度了周末。"
+     ]
+    ],
+    "tip": "re-（再）+sort（出去）→ 一再向外求 → 诉诸。新闻高频：resort to 诉诸（武力等）。"
+   },
+   {
+    "w": "simulate",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ˈsɪmjuleɪt/",
+    "pos": "v.",
+    "def": "模拟；仿真；假装；冒充",
+    "ex": [
+     [
+      "The software simulates real driving conditions.",
+      "该软件模拟真实驾驶环境。"
+     ],
+     [
+      "The model simulates the impact of climate change.",
+      "该模型模拟气候变化的影响。"
+     ],
+     [
+      "He simulated enthusiasm he did not feel.",
+      "他假装出并不存在的热情。"
+     ]
+    ],
+    "tip": "simul（相似）+ate → 造出相似的东西 → 模拟。同根 similar 相似的、simultaneous 同时的。"
+   },
+   {
+    "w": "tactic",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ˈtæktɪk/",
+    "pos": "n.",
+    "def": "策略；战术；手段；手法",
+    "ex": [
+     [
+      "The company used aggressive pricing tactics.",
+      "公司采用了激进的定价策略。"
+     ],
+     [
+      "The coach changed tactics at half-time.",
+      "教练在中场休息时改变了战术。"
+     ],
+     [
+      "Delaying was a tactic to gain more time.",
+      "拖延是争取更多时间的手段。"
+     ]
+    ],
+    "tip": "tact（接触）+ic → 接触对手的方式 → 战术。同根 tactful 圆通的。职场高频：sales tactics 销售策略。"
+   }
+  ]
  }
 ]
