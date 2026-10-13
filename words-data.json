@@ -9618,5 +9618,356 @@
     "tip": "tact（接触）+ic → 接触对手的方式 → 战术。同根 tactful 圆通的。职场高频：sales tactics 销售策略。"
    }
   ]
+ },
+ {
+  "date": "2026-10-13",
+  "label": "10月13日",
+  "words": [
+   {
+    "w": "aesthetic",
+    "lv": "C2",
+    "level": "C1-C2",
+    "ipa": "/iːsˈθetɪk/",
+    "pos": "adj.&n.",
+    "def": "审美的；美学的；美感的",
+    "ex": [
+     [
+      "The design has strong aesthetic appeal.",
+      "这个设计有很强的美感。"
+     ],
+     [
+      "She appreciates the aesthetic value of minimalism.",
+      "她欣赏极简主义的美学价值。"
+     ],
+     [
+      "The building blends function with aesthetic beauty.",
+      "这座建筑兼具实用与美学之美。"
+     ]
+    ],
+    "tip": "aesthet（感知）+ic → 与感觉有关 → 审美的。同根 aesthetics 美学。"
+   },
+   {
+    "w": "allege",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/əˈledʒ/",
+    "pos": "v.",
+    "def": "声称；指控（未经证实）",
+    "ex": [
+     [
+      "The report alleges that officials accepted bribes.",
+      "报告指控官员收受贿赂。"
+     ],
+     [
+      "She alleged that the company breached the contract.",
+      "她声称公司违反了合同。"
+     ],
+     [
+      "The alleged fraud is still under investigation.",
+      "被指控的欺诈行为仍在调查中。"
+     ]
+    ],
+    "tip": "al-（向）+lege（法律）→ 向法庭陈述 → 指控。新闻高频：alleged 被指控的。"
+   },
+   {
+    "w": "amend",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/əˈmend/",
+    "pos": "v.",
+    "def": "修改；修订；修正",
+    "ex": [
+     [
+      "Congress voted to amend the law.",
+      "国会投票修改法律。"
+     ],
+     [
+      "The contract was amended to reflect the new terms.",
+      "合同已修订以反映新条款。"
+     ],
+     [
+      "The author amended the manuscript before publishing.",
+      "作者在出版前修订了手稿。"
+     ]
+    ],
+    "tip": "a-（向）+mend（改正）→ 改正 → 修正。同根 mend 修补。法律高频：amend the law。"
+   },
+   {
+    "w": "ascertain",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ˌæsəˈteɪn/",
+    "pos": "v.",
+    "def": "查明；确定；弄清",
+    "ex": [
+     [
+      "We need to ascertain the exact cause of the failure.",
+      "我们需要查明故障的确切原因。"
+     ],
+     [
+      "Police are trying to ascertain what happened.",
+      "警方正设法弄清发生了什么。"
+     ],
+     [
+      "It is difficult to ascertain the true cost.",
+      "很难确定真实成本。"
+     ]
+    ],
+    "tip": "as-（加强）+certain（确定）→ 使之确定 → 查明。同根 certain 确定的。正式用语。"
+   },
+   {
+    "w": "avert",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/əˈvɜːt/",
+    "pos": "v.",
+    "def": "避免；防止；转移（目光）",
+    "ex": [
+     [
+      "Quick action averted a major crisis.",
+      "迅速行动避免了一场重大危机。"
+     ],
+     [
+      "The talks helped avert a trade war.",
+      "谈判帮助避免了贸易战。"
+     ],
+     [
+      "She averted her eyes from the accident scene.",
+      "她把目光从事故现场移开。"
+     ]
+    ],
+    "tip": "a-（离开）+vert（转）→ 转开 → 避开。新闻高频：avert a crisis 避免危机。"
+   },
+   {
+    "w": "brink",
+    "lv": "C2",
+    "level": "C1-C2",
+    "ipa": "/brɪŋk/",
+    "pos": "n.",
+    "def": "边缘；濒临；危急关头",
+    "ex": [
+     [
+      "The company is on the brink of collapse.",
+      "该公司濒临倒闭。"
+     ],
+     [
+      "The two countries stood on the brink of war.",
+      "两国处于战争边缘。"
+     ],
+     [
+      "The patient was pulled back from the brink of death.",
+      "病人被从死亡边缘拉了回来。"
+     ]
+    ],
+    "tip": "brink 谐音“布林克”→ 布林克边缘 → 边缘。新闻高频：on the brink of 濒临。"
+   },
+   {
+    "w": "calamity",
+    "lv": "C2",
+    "level": "C1-C2",
+    "ipa": "/kəˈlæməti/",
+    "pos": "n.",
+    "def": "灾难；祸事；不幸",
+    "ex": [
+     [
+      "The flood was a calamity for the region.",
+      "洪水对该地区是一场灾难。"
+     ],
+     [
+      "Losing all data would be a calamity.",
+      "丢失所有数据将是一场灾难。"
+     ],
+     [
+      "The economy survived the calamity remarkably well.",
+      "经济奇迹般地挺过了这场灾难。"
+     ]
+    ],
+    "tip": "calam 谐音“卡拉米”→ 卡拉OK里“倒了麦”→ 祸事 → 灾难。同义 disaster。"
+   },
+   {
+    "w": "casualty",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ˈkæʒuəlti/",
+    "pos": "n.",
+    "def": "伤亡人员；受害者；牺牲品",
+    "ex": [
+     [
+      "The army reported heavy casualties.",
+      "军方报告了重大伤亡。"
+     ],
+     [
+      "Small businesses were the main casualties of the recession.",
+      "小企业是经济衰退的主要受害者。"
+     ],
+     [
+      "There were no casualties in the accident.",
+      "事故中无人伤亡。"
+     ]
+    ],
+    "tip": "casual（偶然的）+ty → 偶然受伤的人 → 伤亡。新闻高频：civilian casualties 平民伤亡。"
+   },
+   {
+    "w": "clarity",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ˈklærəti/",
+    "pos": "n.",
+    "def": "清晰；清楚；明确",
+    "ex": [
+     [
+      "The new policy provides greater clarity.",
+      "新政策提供了更大的清晰度。"
+     ],
+     [
+      "She explained the plan with remarkable clarity.",
+      "她极其清晰地解释了计划。"
+     ],
+     [
+      "The essay lacks clarity and focus.",
+      "这篇文章缺乏清晰度和重点。"
+     ]
+    ],
+    "tip": "clar（清楚）+ity → 清楚的状态 → 清晰。同根 clarify 澄清。职场高频：seek clarity。"
+   },
+   {
+    "w": "coherence",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/kəʊˈhɪərəns/",
+    "pos": "n.",
+    "def": "连贯性；一致性；条理性",
+    "ex": [
+     [
+      "The argument lacks logical coherence.",
+      "这个论证缺乏逻辑连贯性。"
+     ],
+     [
+      "Policy coherence is essential for reform.",
+      "政策的一致性对改革至关重要。"
+     ],
+     [
+      "The essay flows with coherence and style.",
+      "这篇文章行文连贯、有风格。"
+     ]
+    ],
+    "tip": "co-（共同）+here（粘）+ence → 粘合在一起 → 连贯。同根 adhere 黏附、cohesive 有凝聚力的。"
+   },
+   {
+    "w": "compassion",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/kəmˈpæʃn/",
+    "pos": "n.",
+    "def": "同情；怜悯；恻隐之心",
+    "ex": [
+     [
+      "Nurses treat patients with compassion.",
+      "护士们以同情心对待病人。"
+     ],
+     [
+      "The community showed great compassion for the victims.",
+      "社区对受害者表现出极大的同情。"
+     ],
+     [
+      "Compassion is a core value in healthcare.",
+      "同情心是医疗保健的核心价值。"
+     ]
+    ],
+    "tip": "com-（共同）+pass（感受）+ion → 与他人同感 → 同情。同根 passion 激情、patient 病人。"
+   },
+   {
+    "w": "compatible",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/kəmˈpætəbl/",
+    "pos": "adj.",
+    "def": "兼容的；相容的；合得来的",
+    "ex": [
+     [
+      "This software is compatible with older systems.",
+      "该软件与旧系统兼容。"
+     ],
+     [
+      "The two partners have compatible working styles.",
+      "两位合作伙伴的工作风格很合拍。"
+     ],
+     [
+      "Are the policies compatible with the company's goals?",
+      "这些政策与公司目标一致吗？"
+     ]
+    ],
+    "tip": "com-（共同）+pat（承受）+ible → 能共同承受 → 兼容。反义 incompatible 不兼容的。"
+   },
+   {
+    "w": "civic",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ˈsɪvɪk/",
+    "pos": "adj.",
+    "def": "公民的；市政的；市民的",
+    "ex": [
+     [
+      "Voting is a basic civic duty.",
+      "投票是基本的公民义务。"
+     ],
+     [
+      "The city invested heavily in civic infrastructure.",
+      "该市大力投资市政基础设施。"
+     ],
+     [
+      "Civic engagement strengthens democracy.",
+      "公民参与能强化民主。"
+     ]
+    ],
+    "tip": "civ（公民）+ic → 公民的。同根 civil 公民的、civilization 文明。"
+   },
+   {
+    "w": "cling",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/klɪŋ/",
+    "pos": "v.",
+    "def": "紧抓；依附；坚持；黏着",
+    "ex": [
+     [
+      "The child clung to her mother's hand.",
+      "孩子紧紧抓住母亲的手。"
+     ],
+     [
+      "The wet clothes clung to her skin.",
+      "湿衣服贴在她的皮肤上。"
+     ],
+     [
+      "They cling to old traditions despite changes.",
+      "尽管时代变化，他们仍固守旧传统。"
+     ]
+    ],
+    "tip": "cling 谐音“可拎”→ 可以拎住不放 → 紧抓。短语：cling to 紧紧抓住/坚持。"
+   },
+   {
+    "w": "boost",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/buːst/",
+    "pos": "v.&n.",
+    "def": "促进；推动；增强；提高",
+    "ex": [
+     [
+      "The new policy boosted consumer confidence.",
+      "新政策增强了消费者信心。"
+     ],
+     [
+      "Exports received a boost from the weak currency.",
+      "出口因货币贬值而受到提振。"
+     ],
+     [
+      "Exercise is a great boost to your mood.",
+      "运动能大大改善心情。"
+     ]
+    ],
+    "tip": "boost 谐音“布斯”→ 推你一把“boost”→ 推动。职场高频：boost sales 提升销量。"
+   }
+  ]
  }
 ]
