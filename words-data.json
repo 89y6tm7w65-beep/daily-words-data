@@ -10320,5 +10320,356 @@
     "tip": "ubi（到处）+quit（走）+ous → 走到哪里都在 → 无处不在。学术/科技高频词。"
    }
   ]
+ },
+ {
+  "date": "2026-10-15",
+  "label": "10月15日",
+  "words": [
+   {
+    "w": "prestige",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/preˈstiːʒ/",
+    "pos": "n.",
+    "def": "声望；威望；威信",
+    "ex": [
+     [
+      "The university enjoys great prestige worldwide.",
+      "这所大学在世界范围内享有很高的声望。"
+     ],
+     [
+      "Winning the award brought her considerable prestige.",
+      "获奖为她带来了相当大的声望。"
+     ],
+     [
+      "He values prestige more than money.",
+      "他看重声望胜过金钱。"
+     ]
+    ],
+    "tip": "prestige 谐音“普雷斯提日”→ 被普遍提及的人 → 有声望。职场高频：prestigious 有声望的。"
+   },
+   {
+    "w": "prerequisite",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ˌpriːˈrekwəzɪt/",
+    "pos": "n.&adj.",
+    "def": "先决条件；前提；必备的",
+    "ex": [
+     [
+      "A degree is a prerequisite for this job.",
+      "学位是这份工作的先决条件。"
+     ],
+     [
+      "Trust is a prerequisite for effective teamwork.",
+      "信任是有效团队合作的前提。"
+     ],
+     [
+      "Basic math is prerequisite to advanced physics.",
+      "基础数学是学习高级物理的前提。"
+     ]
+    ],
+    "tip": "pre-（先）+requisite（必需的）→ 先前就必须具备的 → 先决条件。学术/职场高频。"
+   },
+   {
+    "w": "prolific",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/prəˈlɪfɪk/",
+    "pos": "adj.",
+    "def": "多产的；作品丰富的；大量的",
+    "ex": [
+     [
+      "He is one of the most prolific writers of his generation.",
+      "他是同代人中作品最丰产的作家之一。"
+     ],
+     [
+      "The scientist had a prolific career.",
+      "这位科学家职业生涯成果丰硕。"
+     ],
+     [
+      "Rabbits are notoriously prolific breeders.",
+      "兔子是出了名的多产繁殖者。"
+     ]
+    ],
+    "tip": "pro-（向前）+lific（产生）→ 不断产出 → 多产的。学术高频：prolific author。"
+   },
+   {
+    "w": "propensity",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/prəˈpensəti/",
+    "pos": "n.",
+    "def": "倾向；习性；癖好",
+    "ex": [
+     [
+      "He has a propensity for taking risks.",
+      "他有冒险的倾向。"
+     ],
+     [
+      "The data shows a propensity to overspend.",
+      "数据显示有超支的倾向。"
+     ],
+     [
+      "Some people have a natural propensity for math.",
+      "有些人对数学有天然的禀赋。"
+     ]
+    ],
+    "tip": "pro-（向前）+pens（悬挂）+ity → 向前倾斜 → 倾向。学术高频：propensity for/to。"
+   },
+   {
+    "w": "protocol",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ˈprəʊtəkɒl/",
+    "pos": "n.",
+    "def": "协议；规程；礼仪；议定书",
+    "ex": [
+     [
+      "The medical team followed strict safety protocols.",
+      "医疗团队严格遵守安全规程。"
+     ],
+     [
+      "The two countries signed a trade protocol.",
+      "两国签署了贸易议定书。"
+     ],
+     [
+      "Diplomatic protocol requires formal dress.",
+      "外交礼仪要求正式装束。"
+     ]
+    ],
+    "tip": "proto-（首要）+col → 首要的规则 → 规程。职场/科技高频：security protocol。"
+   },
+   {
+    "w": "quandary",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ˈkwɒndəri/",
+    "pos": "n.",
+    "def": "窘境；进退两难；困惑",
+    "ex": [
+     [
+      "I'm in a quandary about which job to take.",
+      "我对于接受哪份工作感到进退两难。"
+     ],
+     [
+      "The company faces a funding quandary.",
+      "公司面临资金困境。"
+     ],
+     [
+      "Her decision left us in a quandary.",
+      "她的决定让我们陷入两难。"
+     ]
+    ],
+    "tip": "quand（疑问）+ary → 满是疑问的状态 → 窘境。同义 dilemma 两难。"
+   },
+   {
+    "w": "reciprocal",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/rɪˈsɪprəkl/",
+    "pos": "adj.",
+    "def": "相互的；互惠的；对等的",
+    "ex": [
+     [
+      "The two countries signed a reciprocal trade agreement.",
+      "两国签署了互惠贸易协定。"
+     ],
+     [
+      "Respect in a team should be reciprocal.",
+      "团队中的尊重应该是相互的。"
+     ],
+     [
+      "They offered reciprocal support during the crisis.",
+      "危机期间他们相互支持。"
+     ]
+    ],
+    "tip": "re-（回）+cip（拿）+rocal → 来回拿取 → 相互的。职场/学术高频：reciprocal relationship。"
+   },
+   {
+    "w": "relinquish",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/rɪˈlɪŋkwɪʃ/",
+    "pos": "v.",
+    "def": "放弃；交出；让出",
+    "ex": [
+     [
+      "She refused to relinquish control of the project.",
+      "她拒绝放弃对项目的控制权。"
+     ],
+     [
+      "The general relinquished command of the army.",
+      "将军交出了军队指挥权。"
+     ],
+     [
+      "He relinquished his claim to the throne.",
+      "他放弃了王位继承权。"
+     ]
+    ],
+    "tip": "re-（离开）+linqu（留下）+ish → 不再留下 → 放弃。新闻高频：relinquish power。"
+   },
+   {
+    "w": "replicate",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ˈreplɪkeɪt/",
+    "pos": "v.",
+    "def": "复制；重现；仿制；复刻",
+    "ex": [
+     [
+      "Researchers tried to replicate the experiment.",
+      "研究人员试图复现该实验。"
+     ],
+     [
+      "The model replicates real market conditions.",
+      "该模型重现真实的市场条件。"
+     ],
+     [
+      "Other firms rushed to replicate the success.",
+      "其他公司竞相复制这一成功。"
+     ]
+    ],
+    "tip": "re-（再）+plic（折叠）+ate → 再次折叠出同样形状 → 复制。学术高频：replicate the study。"
+   },
+   {
+    "w": "resonate",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ˈrezəneɪt/",
+    "pos": "v.",
+    "def": "引起共鸣；回响；产生共振",
+    "ex": [
+     [
+      "Her speech resonated with young audiences.",
+      "她的演讲引起了年轻观众的共鸣。"
+     ],
+     [
+      "The message resonates across cultures.",
+      "这一信息在各文化中引起共鸣。"
+     ],
+     [
+      "His words still resonate with me today.",
+      "他的话至今仍在我心中回响。"
+     ]
+    ],
+    "tip": "re-（回）+son（声音）+ate → 声音返回 → 回响/共鸣。职场高频：resonate with 引起共鸣。"
+   },
+   {
+    "w": "salient",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ˈseɪliənt/",
+    "pos": "adj.",
+    "def": "显著的；突出的；最重要的",
+    "ex": [
+     [
+      "The report highlights the salient points of the debate.",
+      "报告突出了辩论的要点。"
+     ],
+     [
+      "One salient feature of the plan is its low cost.",
+      "该计划的一个显著特点是成本低。"
+     ],
+     [
+      "The salient facts are beyond dispute.",
+      "主要事实无可争议。"
+     ]
+    ],
+    "tip": "sal（跳）+ient → 跳出来的 → 突出的。学术高频：salient features 显著特征。"
+   },
+   {
+    "w": "sanction",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ˈsæŋkʃn/",
+    "pos": "n.&v.",
+    "def": "制裁；批准；许可；惩罚",
+    "ex": [
+     [
+      "The UN imposed economic sanctions on the country.",
+      "联合国对该国实施经济制裁。"
+     ],
+     [
+      "The committee sanctioned the new policy.",
+      "委员会批准了新政策。"
+     ],
+     [
+      "The plan was carried out without official sanction.",
+      "该计划在未获官方批准的情况下执行。"
+     ]
+    ],
+    "tip": "sanct（神圣）+ion → 神圣的裁定 → 制裁/批准。新闻高频：impose sanctions 实施制裁。"
+   },
+   {
+    "w": "sentiment",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ˈsentɪmənt/",
+    "pos": "n.",
+    "def": "情绪；看法；意见；观点",
+    "ex": [
+     [
+      "Public sentiment has turned against the policy.",
+      "公众舆论已转向反对该政策。"
+     ],
+     [
+      "I share your sentiment on this issue.",
+      "在这个问题上我与你有同感。"
+     ],
+     [
+      "Market sentiment remains cautious.",
+      "市场情绪仍然谨慎。"
+     ]
+    ],
+    "tip": "sent（感觉）+iment → 感觉的产物 → 情绪/观点。新闻/职场高频：public sentiment 舆情。"
+   },
+   {
+    "w": "stagnant",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ˈstæɡnənt/",
+    "pos": "adj.",
+    "def": "停滞的；不景气的；不流动的",
+    "ex": [
+     [
+      "The economy remained stagnant for years.",
+      "经济停滞了好几年。"
+     ],
+     [
+      "Wages have been stagnant despite rising prices.",
+      "尽管物价上涨，工资却一直停滞不前。"
+     ],
+     [
+      "The stagnant water bred mosquitoes.",
+      "死水滋生了蚊子。"
+     ]
+    ],
+    "tip": "stag（站住）+nant → 站住不动 → 停滞的。经济新闻高频：stagnant economy。"
+   },
+   {
+    "w": "transcend",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/trænˈsend/",
+    "pos": "v.",
+    "def": "超越；超出；胜过",
+    "ex": [
+     [
+      "Great art transcends cultural boundaries.",
+      "伟大的艺术超越文化边界。"
+     ],
+     [
+      "The issue transcends political divisions.",
+      "这一问题超越了政治分歧。"
+     ],
+     [
+      "Her performance transcended all expectations.",
+      "她的表现超出了所有人的预期。"
+     ]
+    ],
+    "tip": "trans-（跨越）+scend（爬）→ 爬过去 → 超越。同根 ascend 上升、descend 下降。学术高频。"
+   }
+  ]
  }
 ]
