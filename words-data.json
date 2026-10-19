@@ -11373,5 +11373,356 @@
     "tip": "circum-（四周）+spect（看）→ 四面八方都看到 → 谨慎的。同根 perspective 视角、inspect 检查。职场/金融高频。"
    }
   ]
+ },
+ {
+  "date": "2026-10-19",
+  "label": "10月19日",
+  "words": [
+   {
+    "w": "credible",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ˈkredəbl/",
+    "pos": "adj.",
+    "def": "可信的；可靠的；令人信服的",
+    "ex": [
+     [
+      "The witness gave a credible account of the incident.",
+      "证人对此事件的陈述可信。"
+     ],
+     [
+      "The company needs credible evidence to refute the allegations.",
+      "公司需要可靠证据来反驳指控。"
+     ],
+     [
+      "She is the only credible candidate for the post.",
+      "她是这个职位唯一可信的候选人。"
+     ]
+    ],
+    "tip": "cred（相信）+ible（可…的）→ 可信的。同根 credit 信用、incredible 难以置信的。新闻/学术高频：credible evidence 可靠证据。"
+   },
+   {
+    "w": "coerce",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/kəʊˈɜːs/",
+    "pos": "v.",
+    "def": "强迫；胁迫；强制（某人做某事）",
+    "ex": [
+     [
+      "The court ruled that the confession was coerced.",
+      "法院裁定该供词是被迫作出的。"
+     ],
+     [
+      "No one should be coerced into signing such an agreement.",
+      "任何人都不应被胁迫签署这样的协议。"
+     ],
+     [
+      "The government was accused of coercing witnesses.",
+      "政府被指控胁迫证人。"
+     ]
+    ],
+    "tip": "co-（共同）+erc（关、困）+e → 把对方困住 → 胁迫。同根 coerce 的名词 coercion 胁迫。新闻/法律高频：coerce sb into doing sth。"
+   },
+   {
+    "w": "subsidize",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ˈsʌbsɪdaɪz/",
+    "pos": "v.",
+    "def": "补贴；资助（使成本降低）",
+    "ex": [
+     [
+      "The government subsidizes farmers to keep food prices low.",
+      "政府补贴农民以保持食品价格低廉。"
+     ],
+     [
+      "Public transport is heavily subsidized in many European cities.",
+      "许多欧洲城市的公共交通获得大量补贴。"
+     ],
+     [
+      "The company subsidizes employees' gym memberships.",
+      "公司为员工的健身房会员提供补贴。"
+     ]
+    ],
+    "tip": "sub-（在下）+sid（坐）+ize → 坐在下面支撑 → 补贴。同根 subsidy 补贴金。新闻/经济高频：heavily subsidized 高额补贴。"
+   },
+   {
+    "w": "expedient",
+    "lv": "C2",
+    "level": "C1-C2",
+    "ipa": "/ɪkˈspiːdiənt/",
+    "pos": "adj./n.",
+    "def": "权宜之计的；得当的，有利的；权宜之计",
+    "ex": [
+     [
+      "The decision was made for political expediency rather than principle.",
+      "这一决定出于政治权宜而非原则。"
+     ],
+     [
+      "It may be expedient to postpone the meeting until next week.",
+      "把会议推迟到下周也许是得当的。"
+     ],
+     [
+      "He used every expedient to avoid paying the fine.",
+      "他用尽各种权宜办法来逃避罚款。"
+     ]
+    ],
+    "tip": "ex-（出）+pedi（脚）+ent → 把脚伸出来 → 迈步走出去 → 便利的、权宜的。同根 expedite 加速。职场/政治高频：a matter of expediency。"
+   },
+   {
+    "w": "repercussion",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ˌriːpəˈkʌʃn/",
+    "pos": "n.",
+    "def": "（不良的）影响；后果；反响",
+    "ex": [
+     [
+      "The scandal had serious repercussions for the whole industry.",
+      "这起丑闻对整个行业产生了严重后果。"
+     ],
+     [
+      "Rising prices could have far-reaching repercussions for consumers.",
+      "物价上涨可能对消费者产生深远影响。"
+     ],
+     [
+      "The tax reform's repercussions are still being felt.",
+      "税收改革的余波仍在显现。"
+     ]
+    ],
+    "tip": "re-（回）+percuss（撞击）+ion → 撞回来的回响 → 余波、后果。同根 percussion 打击乐。新闻高频：serious repercussions 严重后果。"
+   },
+   {
+    "w": "fraught",
+    "lv": "C2",
+    "level": "C1-C2",
+    "ipa": "/frɔːt/",
+    "pos": "adj.",
+    "def": "充满（困难、危险）的；令人担忧的；焦虑不安的",
+    "ex": [
+     [
+      "The negotiations were fraught with difficulty.",
+      "谈判充满困难。"
+     ],
+     [
+      "It was a fraught moment for the team.",
+      "对团队来说那是令人焦虑的时刻。"
+     ],
+     [
+      "Their relationship has always been fraught.",
+      "他们的关系一直紧张不安。"
+     ]
+    ],
+    "tip": "fraught 原义“装载的”→ 装载着问题 → 充满麻烦的。常用搭配 be fraught with danger/difficulty。新闻/文学高频。"
+   },
+   {
+    "w": "stark",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/stɑːk/",
+    "pos": "adj.",
+    "def": "鲜明的；严峻的，残酷的；荒凉的",
+    "ex": [
+     [
+      "The stark reality is that the company is going bankrupt.",
+      "严酷的现实是公司即将破产。"
+     ],
+     [
+      "There is a stark contrast between the rich and the poor here.",
+      "这里的贫富形成鲜明对比。"
+     ],
+     [
+      "The landscape was bleak and stark.",
+      "这片景色荒凉而萧瑟。"
+     ]
+    ],
+    "tip": "stark 可记“死他刻”→ 严峻得吓人。常用搭配 stark contrast 鲜明对比、stark reality 残酷现实。新闻/学术高频。"
+   },
+   {
+    "w": "divergent",
+    "lv": "C2",
+    "level": "C1-C2",
+    "ipa": "/daɪˈvɜːdʒənt/",
+    "pos": "adj.",
+    "def": "分歧的；不同的；发散的",
+    "ex": [
+     [
+      "The two parties hold divergent views on immigration.",
+      "两党在移民问题上持不同观点。"
+     ],
+     [
+      "Scientists offered divergent explanations for the data.",
+      "科学家们对这些数据给出了不同的解释。"
+     ],
+     [
+      "Divergent opinions can lead to more creative solutions.",
+      "分歧的意见可能带来更有创造性的方案。"
+     ]
+    ],
+    "tip": "di-（分开）+verg（转向）+ent → 向不同方向转 → 分叉的。同根 diverge 分岔、convergent 趋同的。学术/职场高频：divergent views。"
+   },
+   {
+    "w": "vindicate",
+    "lv": "C2",
+    "level": "C1-C2",
+    "ipa": "/ˈvɪndɪkeɪt/",
+    "pos": "v.",
+    "def": "证明（某人）无罪；证明（观点）正确；洗清冤屈",
+    "ex": [
+     [
+      "The trial vindicated him completely.",
+      "审判完全证明他无罪。"
+     ],
+     [
+      "The latest data vindicated our decision to expand.",
+      "最新数据证明了我们扩张的决定是正确的。"
+     ],
+     [
+      "She was vindicated when the real culprit was caught.",
+      "真凶落网后，她的清白得到了证明。"
+     ]
+    ],
+    "tip": "vin（力量）+dic（说）+ate → 用有力的话为…辩护 → 证明清白。同根 verdict 裁决、predict 预言。新闻/法律高频：be fully vindicated。"
+   },
+   {
+    "w": "proliferate",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/prəˈlɪfəreɪt/",
+    "pos": "v.",
+    "def": "激增；迅速扩散；大量繁殖",
+    "ex": [
+     [
+      "Smartphones have proliferated across the developing world.",
+      "智能手机在发展中国家迅速普及。"
+     ],
+     [
+      "Fake news proliferates on social media.",
+      "假新闻在社交媒体上大量扩散。"
+     ],
+     [
+      "Nuclear proliferation remains a global concern.",
+      "核扩散仍是全球关切的问题。"
+     ]
+    ],
+    "tip": "pro-（向前）+lifer（后代）+ate → 后代不断产生 → 激增。同根 prolific 多产的。新闻/学术高频：proliferate on social media。"
+   },
+   {
+    "w": "temper",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ˈtempə(r)/",
+    "pos": "v./n.",
+    "def": "缓和；使温和；锻炼，淬炼；脾气",
+    "ex": [
+     [
+      "We should temper justice with mercy.",
+      "我们应该以仁慈缓和严苛的司法。"
+     ],
+     [
+      "Years of hardship tempered his character.",
+      "多年的艰苦磨炼了他的性格。"
+     ],
+     [
+      "He has a quick temper but a kind heart.",
+      "他脾气急但心地善良。"
+     ]
+    ],
+    "tip": "temper 与 temperature 同源（调节）。动词义“调和、淬炼”：temper criticism with praise 表扬中带批评。文学/职场高频。"
+   },
+   {
+    "w": "augment",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ɔːɡˈment/",
+    "pos": "v.",
+    "def": "增加；增大；扩大；补充",
+    "ex": [
+     [
+      "The new course augments the existing curriculum.",
+      "新课程扩充了现有教学大纲。"
+     ],
+     [
+      "He augmented his income by teaching online.",
+      "他通过在线教学增加收入。"
+     ],
+     [
+      "The report augments our understanding of the crisis.",
+      "这份报告加深了我们对危机的理解。"
+     ]
+    ],
+    "tip": "aug（增加）+ment → 使增加。同根 auction 拍卖（价格越抬越高）。学术/职场高频：augment one's income 增加收入。"
+   },
+   {
+    "w": "redress",
+    "lv": "C2",
+    "level": "C1-C2",
+    "ipa": "/rɪˈdres/",
+    "pos": "v./n.",
+    "def": "纠正；补救；赔偿；矫正",
+    "ex": [
+     [
+      "The company took steps to redress the imbalance.",
+      "公司采取措施纠正这种不平衡。"
+     ],
+     [
+      "Victims are seeking redress through the courts.",
+      "受害者正通过法院寻求赔偿。"
+     ],
+     [
+      "We must redress the wrongs done to the workers.",
+      "我们必须纠正工人所受的不公待遇。"
+     ]
+    ],
+    "tip": "re-（重新）+dress（整理）→ 重新整理好 → 纠正。常用 redress the balance 恢复平衡、seek redress 寻求赔偿。新闻/法律高频。"
+   },
+   {
+    "w": "allegiance",
+    "lv": "C2",
+    "level": "C1-C2",
+    "ipa": "/əˈliːdʒəns/",
+    "pos": "n.",
+    "def": "忠诚；效忠；拥戴",
+    "ex": [
+     [
+      "He pledged his allegiance to the new government.",
+      "他宣誓效忠新政府。"
+     ],
+     [
+      "The party commands strong allegiance among young voters.",
+      "该党在年轻选民中拥有强烈支持。"
+     ],
+     [
+      "Employees owe allegiance to their company's interests.",
+      "员工应忠于公司的利益。"
+     ]
+    ],
+    "tip": "al-（向）+leg（法律/派遣）+iance → 向…派遣军队 → 效忠。同根 loyal 的变体、legation 使团。新闻/政治高频：pledge allegiance 宣誓效忠。"
+   },
+   {
+    "w": "erratic",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ɪˈrætɪk/",
+    "pos": "adj.",
+    "def": "不稳定的；飘忽不定的；难以预测的",
+    "ex": [
+     [
+      "The stock market has been erratic this month.",
+      "这个月股市走势飘忽不定。"
+     ],
+     [
+      "His erratic behavior worried his colleagues.",
+      "他飘忽不定的行为让同事们担忧。"
+     ],
+     [
+      "The patient's heartbeat was erratic.",
+      "病人的心跳很不规律。"
+     ]
+    ],
+    "tip": "err（游走、犯错）+atic → 到处游走的 → 不稳定的。同根 error 错误、errant 漂泊的。新闻/职场高频：erratic performance 不稳定的表现。"
+   }
+  ]
  }
 ]
