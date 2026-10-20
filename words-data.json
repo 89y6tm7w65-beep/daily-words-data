@@ -11724,5 +11724,356 @@
     "tip": "err（游走、犯错）+atic → 到处游走的 → 不稳定的。同根 error 错误、errant 漂泊的。新闻/职场高频：erratic performance 不稳定的表现。"
    }
   ]
+ },
+ {
+  "date": "2026-10-20",
+  "label": "10月20日",
+  "words": [
+   {
+    "w": "impetus",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ˈɪmpɪtəs/",
+    "pos": "n.",
+    "def": "推动力；促进；刺激",
+    "ex": [
+     [
+      "The new policy gave fresh impetus to the struggling industry.",
+      "新政策为困境中的行业注入了新的推动力。"
+     ],
+     [
+      "Her speech provided the impetus for reform.",
+      "她的演讲为改革提供了动力。"
+     ],
+     [
+      "Economic growth lost its impetus last quarter.",
+      "上季度经济增长失去了动力。"
+     ]
+    ],
+    "tip": "im-（向内）+pet（追求）+us → 内心被推动 → 推动力。同根 compete 竞争、petition 请愿。学术/职场高频：provide/give impetus to sth。"
+   },
+   {
+    "w": "pernicious",
+    "lv": "C2",
+    "level": "C1-C2",
+    "ipa": "/pəˈnɪʃəs/",
+    "pos": "adj.",
+    "def": "有害的；恶性的；具有破坏性的",
+    "ex": [
+     [
+      "The pernicious effects of the rumor damaged her career.",
+      "谣言的有害影响损害了她的事业。"
+     ],
+     [
+      "Smoking has a pernicious influence on public health.",
+      "吸烟对公众健康有极为有害的影响。"
+     ],
+     [
+      "They warned of the pernicious spread of misinformation.",
+      "他们警告错误信息的恶性扩散。"
+     ]
+    ],
+    "tip": "per-（彻底）+nic（伤害）+ious → 伤害到底 → 有害的。同根 innocuous 无害的。新闻/学术高频：pernicious effects/influence。"
+   },
+   {
+    "w": "rudimentary",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ˌruːdɪˈmentri/",
+    "pos": "adj.",
+    "def": "基础的；初步的；简陋的",
+    "ex": [
+     [
+      "The device is still at a rudimentary stage of development.",
+      "该设备仍处于初步研发阶段。"
+     ],
+     [
+      "They built a rudimentary shelter from branches.",
+      "他们用树枝搭了个简陋的棚子。"
+     ],
+     [
+      "He has only a rudimentary knowledge of economics.",
+      "他对经济学只有粗浅的了解。"
+     ]
+    ],
+    "tip": "rudi（原始、粗）+ment+ary → 粗糙原始的 → 基础的。同根 erudite 博学的。学术/技术高频：rudimentary stage 初级阶段。"
+   },
+   {
+    "w": "impending",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ɪmˈpendɪŋ/",
+    "pos": "adj.",
+    "def": "即将发生的；迫在眉睫的",
+    "ex": [
+     [
+      "The town braced itself for the impending storm.",
+      "全城都为即将到来的风暴做准备。"
+     ],
+     [
+      "Employees worried about the impending layoffs.",
+      "员工们为即将到来的裁员而担忧。"
+     ],
+     [
+      "Despite the impending deadline, she stayed calm.",
+      "尽管截止日期迫在眉睫，她依然保持冷静。"
+     ]
+    ],
+    "tip": "im-（临近）+pend（悬挂）+ing → 悬在头顶的 → 迫近的。同根 pending 悬而未决的、pendulum 钟摆。新闻高频：impending crisis/storm。"
+   },
+   {
+    "w": "disparate",
+    "lv": "C2",
+    "level": "C1-C2",
+    "ipa": "/ˈdɪspərət/",
+    "pos": "adj.",
+    "def": "迥然不同的；异类的；无法比拟的",
+    "ex": [
+     [
+      "The report brings together disparate pieces of evidence.",
+      "报告汇集了各种互不相关的证据。"
+     ],
+     [
+      "The company operates in three disparate markets.",
+      "该公司在三个截然不同的市场运营。"
+     ],
+     [
+      "We need to unite disparate groups behind one goal.",
+      "我们需要把不同的群体团结到一个目标下。"
+     ]
+    ],
+    "tip": "dis-（分开）+par（相等）+ate → 不相等 → 迥异的。同根 parity 平等、compare 比较。学术/职场高频：disparate groups/views。"
+   },
+   {
+    "w": "untenable",
+    "lv": "C2",
+    "level": "C1-C2",
+    "ipa": "/ʌnˈtenəbl/",
+    "pos": "adj.",
+    "def": "（论点）站不住脚的；（局面）难以维持的",
+    "ex": [
+     [
+      "His argument was quickly shown to be untenable.",
+      "他的论点很快就被证明站不住脚。"
+     ],
+     [
+      "The company's financial position became untenable.",
+      "公司的财务状况变得难以维持。"
+     ],
+     [
+      "The negotiators found the demands untenable.",
+      "谈判者认为这些要求无法接受。"
+     ]
+    ],
+    "tip": "un-（不）+ten（握住）+able → 握不住的 → 站不住脚的。同根 tenable 站得住脚的、retain 保持。新闻/法律高频：position untenable。"
+   },
+   {
+    "w": "exorbitant",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ɪɡˈzɔːbɪtənt/",
+    "pos": "adj.",
+    "def": "（价格、收费）过高的；离谱的",
+    "ex": [
+     [
+      "The hotel charges exorbitant prices during the festival.",
+      "节日期间这家酒店收费高得离谱。"
+     ],
+     [
+      "Consumers complained about exorbitant delivery fees.",
+      "消费者抱怨配送费高得离谱。"
+     ],
+     [
+      "They were forced to pay exorbitant rent for a tiny flat.",
+      "他们被迫为一间小公寓支付过高的租金。"
+     ]
+    ],
+    "tip": "ex-（超出）+orbit（轨道）+ant → 飞出轨道 → 过高的。同根 orbit 轨道。新闻/经济高频：exorbitant prices/fees。"
+   },
+   {
+    "w": "daunt",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/dɔːnt/",
+    "pos": "v.",
+    "def": "使胆怯；使气馁；使畏缩",
+    "ex": [
+     [
+      "The challenge did not daunt the young researcher.",
+      "这个挑战并没有吓倒年轻的研究者。"
+     ],
+     [
+      "She was daunted by the size of the task.",
+      "她被任务的规模吓住了。"
+     ],
+     [
+      "Nothing daunts him once he sets his mind to it.",
+      "一旦下定决心，什么都吓不倒他。"
+     ]
+    ],
+    "tip": "daunt 记作“挡他”→ 拦住他让他退缩 → 使气馁。同根 daunting 令人生畏的。职场/文学高频：be daunted by sth。"
+   },
+   {
+    "w": "commensurate",
+    "lv": "C2",
+    "level": "C1-C2",
+    "ipa": "/kəˈmenʃərət/",
+    "pos": "adj.",
+    "def": "相称的；成比例的；相应的",
+    "ex": [
+     [
+      "Salary should be commensurate with experience.",
+      "薪水应与经验相称。"
+     ],
+     [
+      "The punishment was commensurate with the crime.",
+      "刑罚与罪行相当。"
+     ],
+     [
+      "Her workload is not commensurate with her pay.",
+      "她的工作量与报酬不相称。"
+     ]
+    ],
+    "tip": "com-（共同）+mens（测量）+urate → 按同一尺度量 → 相称的。同根 measure 测量。职场高频：commensurate with..."
+   },
+   {
+    "w": "impel",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ɪmˈpel/",
+    "pos": "v.",
+    "def": "推动；驱使；促使（某人做某事）",
+    "ex": [
+     [
+      "Poverty impelled him to leave his hometown.",
+      "贫困迫使他离开家乡。"
+     ],
+     [
+      "Curiosity impelled her to ask more questions.",
+      "好奇心驱使她提出更多问题。"
+     ],
+     [
+      "What impels people to take such risks?",
+      "是什么驱使人们冒这样的风险？"
+     ]
+    ],
+    "tip": "im-（向内）+pel（推）→ 向内推 → 驱使。同根 compel 强迫、propel 推进、repel 击退。学术/新闻高频：impel sb to do sth。"
+   },
+   {
+    "w": "zeal",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/ziːl/",
+    "pos": "n.",
+    "def": "热情；热忱；狂热",
+    "ex": [
+     [
+      "She threw herself into the project with great zeal.",
+      "她满怀热忱地投入这个项目。"
+     ],
+     [
+      "The reform was carried out with religious zeal.",
+      "改革以极大的热忱推行。"
+     ],
+     [
+      "His zeal for the cause never wavered.",
+      "他对这项事业的热情从未动摇。"
+     ]
+    ],
+    "tip": "zeal 记“急哦”→ 着急热心。同根 zealous 热心的、zealot 狂热分子。职场/新闻高频：with great zeal。"
+   },
+   {
+    "w": "tacit",
+    "lv": "C2",
+    "level": "C1-C2",
+    "ipa": "/ˈtæsɪt/",
+    "pos": "adj.",
+    "def": "心照不宣的；默示的；不言而喻的",
+    "ex": [
+     [
+      "There was a tacit agreement between the two rivals.",
+      "两个对手之间有一种心照不宣的默契。"
+     ],
+     [
+      "His silence was taken as tacit approval.",
+      "他的沉默被视为默许。"
+     ],
+     [
+      "The team operated under tacit rules of conduct.",
+      "团队在默认的行为准则下运作。"
+     ]
+    ],
+    "tip": "tac（沉默）+it → 沉默的 → 心照不宣的。同根 taciturn 沉默寡言的。职场/法律高频：tacit agreement/approval。"
+   },
+   {
+    "w": "vacillate",
+    "lv": "C2",
+    "level": "C1-C2",
+    "ipa": "/ˈvæsɪleɪt/",
+    "pos": "v.",
+    "def": "犹豫不决；摇摆不定",
+    "ex": [
+     [
+      "The government vacillated between reform and caution.",
+      "政府在改革与谨慎之间摇摆不定。"
+     ],
+     [
+      "Stop vacillating and make a decision.",
+      "别再犹豫不决了，做个决定吧。"
+     ],
+     [
+      "He vacillated for weeks before accepting the offer.",
+      "他犹豫了好几周才接受这份工作。"
+     ]
+    ],
+    "tip": "vacill（摇摆）+ate → 摇摆不定。同根 vacant 空的、vacuum 真空。新闻/职场高频：vacillate between A and B。"
+   },
+   {
+    "w": "loom",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/luːm/",
+    "pos": "v.",
+    "def": "逼近；赫然显现；隐约出现",
+    "ex": [
+     [
+      "Economic recession looms over the country.",
+      "经济衰退的阴影笼罩着这个国家。"
+     ],
+     [
+      "A crisis is looming on the horizon.",
+      "一场危机正在逼近。"
+     ],
+     [
+      "The threat of war loomed large in people's minds.",
+      "战争的威胁在人们心中日益凸显。"
+     ]
+    ],
+    "tip": "loom 记“卢姆”→ 电影里怪物赫然逼近。常用 looms large 赫然逼近、looming crisis 迫近的危机。新闻高频。"
+   },
+   {
+    "w": "solicit",
+    "lv": "C1",
+    "level": "C1-C2",
+    "ipa": "/səˈlɪsɪt/",
+    "pos": "v.",
+    "def": "征求；恳求；招揽（生意）",
+    "ex": [
+     [
+      "The charity solicited donations from the public.",
+      "该慈善机构向公众募集捐款。"
+     ],
+     [
+      "We are soliciting feedback from all employees.",
+      "我们正在征求全体员工的反馈。"
+     ],
+     [
+      "It is illegal to solicit votes on election day.",
+      "选举日拉票是违法的。"
+     ]
+    ],
+    "tip": "soli-（整体）+cit（唤起）→ 唤起整体关注 → 征求。同根 cite 引用、excite 使兴奋。职场/新闻高频：solicit feedback/support。"
+   }
+  ]
  }
 ]
